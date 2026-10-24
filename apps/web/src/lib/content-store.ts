@@ -214,7 +214,7 @@ async function decorate(
       const title = document.createElement('a');
       title.className = 'smart-menu-title';
       title.href = '/cursos-smart';
-      title.textContent = 'Smart';
+      title.textContent = 'Cursos Smart';
       menu.append(title);
       for (const course of smart) {
         if (!course) continue;
