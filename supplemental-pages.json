@@ -56,27 +56,6 @@
     "html": "<div><div>  <div> <p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/TAXAS-ICON.png\" alt=\"TAXAS ICON\" width=\"128\" height=\"128\" /></p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2019/12/taxas-e-servi%C3%A7os-617x1024.png\" alt=\"\" width=\"617\" height=\"1024\" /></p>\n<p> </p>\n </div>  </div></div>"
   },
   {
-    "title": "Parceiros",
-    "source": "https://ucpparana.edu.br/egressos/parceiros/",
-    "finalSource": "https://ucpparana.edu.br/egressos/parceiros/",
-    "path": "/institucional/egressos/parceiros.html",
-    "html": "<div><div><p><strong>EM BREVE</strong></p></div></div>"
-  },
-  {
-    "title": "Inicio",
-    "source": "https://ucpparana.edu.br/egressos/inicio/",
-    "finalSource": "https://ucpparana.edu.br/egressos/inicio/",
-    "path": "/institucional/egressos/inicio.html",
-    "html": "<div><div><p><strong>EM BREVE</strong></p></div></div>"
-  },
-  {
-    "title": "Depoimentos",
-    "source": "https://ucpparana.edu.br/egressos/depoimentos/",
-    "finalSource": "https://ucpparana.edu.br/egressos/depoimentos/",
-    "path": "/institucional/egressos/depoimentos.html",
-    "html": "<div><div><p><strong>EM BREVE</strong></p></div></div>"
-  },
-  {
     "title": "Cronograma",
     "source": "https://ucpparana.edu.br/iniciacao-cientifica/cronograma/",
     "finalSource": "https://ucpparana.edu.br/iniciacao-cientifica/cronograma/",
@@ -117,13 +96,6 @@
     "finalSource": "https://ucpparana.edu.br/iniciacao-cientifica/tutorial-inscricao/",
     "path": "/institucional/iniciacao-cientifica/tutorial-inscricao.html",
     "html": "<div><div>  <div>  <a href=\"https://ucpparana.edu.br/content/uploads/2026/07/TUTORIAL-IC-CURSOS-TRADICIONAIS.pdf\">Tutorial Inscrição - Cursos Tradicionais</a>  </div>  <div>  <a href=\"https://ucpparana.edu.br/content/uploads/2026/07/TUTORIAL-IC-CURSOS-SMART-E-COMUNIDADE-EXTERNA.pdf\">Tutorial Inscrição - Comunidade Externa e Cursos SMART UB</a>  </div>  </div></div>"
-  },
-  {
-    "title": "Ensalamento",
-    "source": "https://ucpparana.edu.br/iniciacao-cientifica/ensalamento/",
-    "finalSource": "https://ucpparana.edu.br/iniciacao-cientifica/ensalamento/",
-    "path": "/institucional/iniciacao-cientifica/ensalamento.html",
-    "html": "<div><div>  <div> <a></a>\n </div>  </div></div>"
   },
   {
     "title": "Contato",
