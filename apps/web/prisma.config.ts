@@ -1,6 +1,10 @@
 import { defineConfig } from 'prisma/config';
 import path from 'node:path';
-process.loadEnvFile(path.resolve(process.cwd(), '../../.env.local'));
+try {
+  process.loadEnvFile(path.resolve(process.cwd(), '../../.env.local'));
+} catch {
+  // ausente em produção: variáveis já vêm injetadas pelo ambiente
+}
 const user = encodeURIComponent(process.env.MYSQL_USER || '');
 const password = encodeURIComponent(process.env.MYSQL_PASSWORD || '');
 export default defineConfig({
