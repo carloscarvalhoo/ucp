@@ -172,6 +172,9 @@ export async function adminHandler(request: Request) {
       return json({ error: 'Método não permitido.' }, 405);
     const publicOrigin = new URL(url.origin);
     if (request.headers.get('host')) publicOrigin.host = request.headers.get('host')!;
+    const forwardedProto = request.headers.get('x-forwarded-proto')?.split(',')[0]?.trim();
+    if (forwardedProto === 'http' || forwardedProto === 'https')
+      publicOrigin.protocol = forwardedProto + ':';
     if (request.method !== 'GET' && request.headers.get('origin') !== publicOrigin.origin)
       return json({ error: 'Origem não autorizada.' }, 403);
     if (endpoint === 'status' && request.method === 'GET')
