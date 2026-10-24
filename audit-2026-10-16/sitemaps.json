@@ -1,0 +1,236 @@
+[
+  {
+    "url": "https://ucpparana.edu.br/page-sitemap.xml",
+    "status": 200,
+    "count": 190,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap3.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap2.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap4.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap7.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap8.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap6.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap9.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap10.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap11.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap12.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap5.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap13.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap14.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap15.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap16.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap17.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap19.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap18.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap20.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap21.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap22.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap23.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap24.xml",
+    "status": 200,
+    "count": 1000,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/corpo-docente-sitemap.xml",
+    "status": 200,
+    "count": 59,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/eventos-sitemap.xml",
+    "status": 200,
+    "count": 10,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/blog-sitemap.xml",
+    "status": 200,
+    "count": 37,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap25.xml",
+    "status": 200,
+    "count": 999,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/pos_graduacao-sitemap.xml",
+    "status": 200,
+    "count": 0,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/cursos-sitemap.xml",
+    "status": 200,
+    "count": 9,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/instalacoes-sitemap.xml",
+    "status": 200,
+    "count": 29,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/post_tag-sitemap.xml",
+    "status": 200,
+    "count": 16,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/category-sitemap.xml",
+    "status": 200,
+    "count": 4,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/ead-sitemap.xml",
+    "status": 200,
+    "count": 4,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/blog-categories-sitemap.xml",
+    "status": 200,
+    "count": 3,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/author-sitemap.xml",
+    "status": 200,
+    "count": 3,
+    "type": "page"
+  },
+  {
+    "url": "https://ucpparana.edu.br/attachment-sitemap26.xml",
+    "status": 200,
+    "count": 815,
+    "type": "attachment"
+  },
+  {
+    "url": "https://ucpparana.edu.br/post-sitemap.xml",
+    "status": 500,
+    "count": 0,
+    "type": "page"
+  }
+]

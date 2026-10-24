@@ -1,0 +1,27 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+.local-mysql/
+.cms-private/
+dist/uploads/
+
+apps/web/.next/
+apps/web/tsconfig.tsbuildinfo
+
+apps/web/.next/
+apps/web/src/generated/
+apps/web/public/
+
+storage/
+apps/web/.next-staging/
+apps/web/.next-previous-*/
+
+# build output of the legacy static generator (gerado por `node build.cjs`)
+/dist/
+
+# artefatos manuais de QA/referência da migração, não usados por nenhum script
+/preview*.png
+/logo-conferida.png
+/reference-campo.html
+/smart-source.html

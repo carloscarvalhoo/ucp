@@ -1,0 +1,13 @@
+{
+  "started": "2026-10-16T11:51:42.823Z",
+  "finished": "2026-10-16T11:55:50.859Z",
+  "sitemaps": 39,
+  "pageUrls": 3838,
+  "documentUrls": 3779,
+  "checkedDocuments": 3779,
+  "publicMediaExpected": 3767,
+  "publicMediaRetrieved": 3645,
+  "attachmentPages": 25814,
+  "mediaFailures": [],
+  "method": "GET pages and document byte-range/signature checks. Document bodies not fully read; no legal, pedagogical or semantic validation. Attachment landing pages for images inventoried only, not fetched individually."
+}

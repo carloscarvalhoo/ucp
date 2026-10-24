@@ -1,0 +1,1 @@
+import React from 'react';import{createRoot}from'react-dom/client';import{ConfirmationProvider}from'./confirmation';import{AdminApp}from'./admin-app';createRoot(document.getElementById('root')).render(React.createElement(ConfirmationProvider,null,React.createElement(AdminApp)));

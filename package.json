@@ -1,0 +1,27 @@
+{
+  "name": "ucp-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix apps/web run start",
+    "dev": "npm --prefix apps/web run dev",
+    "build": "node build.cjs && npm --prefix apps/web run build",
+    "check": "node check.cjs",
+    "test": "node --test instagram.test.cjs tests/auth.test.cjs tests/course-pages.test.cjs tests/urls.test.cjs tests/native-cms.test.cjs tests/search.test.cjs tests/presentation.test.cjs tests/manual-instagram.test.cjs",
+    "format": "prettier --write \"src/**/*.{css,js}\" \"cms/**/*.cjs\" \"apps/web/src/**/*.{ts,tsx,css}\" \"apps/web/*.{ts,mjs,json}\" \"tests/**/*.cjs\"",
+    "format:check": "prettier --check \"src/**/*.{css,js}\" \"cms/**/*.cjs\" \"apps/web/src/**/*.{ts,tsx,css}\" \"apps/web/*.{ts,mjs,json}\" \"tests/**/*.cjs\"",
+    "next:build": "npm --prefix apps/web run build",
+    "next:typecheck": "npm --prefix apps/web run typecheck",
+    "content:build": "node build.cjs",
+    "test:next": "node --test tests/next.integration.test.cjs",
+    "test:next:public": "node --test tests/next-public.test.cjs"
+  },
+  "dependencies": {
+    "gsap": "3.15.0",
+    "linkedom": "0.18.12",
+    "mysql2": "3.24.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}

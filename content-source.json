@@ -1,0 +1,1553 @@
+{
+  "courses": [
+    {
+      "facts": " Administração | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/administracao/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/administracao/\",\"name\":\"Administração - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2015-12-14T10:33:48+00:00\",\"dateModified\":\"2026-09-16T22:57:14+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/administracao/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/administracao/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/administracao/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Administração\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em ",
+      "name": "Administração",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=121",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2015/12/25060.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Jefferson-290x300.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0067-e1522261188747.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204554824.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204554824-300x177.png"
+      ],
+      "localImage": "assets/course-0.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "4 Anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-0.html",
+      "slug": "administracao",
+      "mode": "Presencial",
+      "description": "<p><p>O Curso de Administração da UCP é um dos primeiro cursos oferecidos pela Instituição. Sendo reconhecido oficialmente pelo Ministério da Educação como o 2º Melhor Curso de Administração do Paraná.</p>\n<p>Formando um dos profissionais mais procurados no mercado de trabalho, o curso de Administração possui uma grande aceitação devido ao seu absoluto domínio deste mercado, pois o nosso profissional é formado com visão geral nas áreas de recursos humanos, marketing, administração de materiais, produção, finanças, sistemas de gestão da qualidade, sistemas de informação gerenciais, empreendedorismo, entre outras.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Esse é um curso para quem gosta de múltiplas oportunidades e garante a você ser um profissional capaz de administrar as transformações no presente e futuro.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>Sendo um administrador, você poderá definir estratégias, gerenciar a rotina de uma organização, traçar metas, criar políticas internas, realizar auditorias e analisar resultados.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>Você terá inúmeras possibilidades de escolhas, como: administração financeira, administração de produção, comércio exterior, empreendedorismo, logística, marketing e gestão de pessoas.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Empresa Júnior",
+          "html": " A UCP Júnior tem como objetivo desenvolver habilidades empreendedoras nos acadêmicos. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Jefferson Silvestre Alberti dos Santos",
+          "email": "prof_jefferson.alberti@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/9245ceb07c93-Jefferson-290x300.png"
+        },
+        {
+          "name": "Ivo Ricardo Hey",
+          "email": "prof_ivohey@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/4687022742268617",
+          "image": "/assets/documentos/7dcd05eaa3b9-Ivo-300x300.png"
+        },
+        {
+          "name": "Carlos Kurcrevski",
+          "email": "prof_carlosk@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/5167545244419823",
+          "image": "/assets/documentos/7f121a9e9d0a-Carlos-K-300x300.png"
+        },
+        {
+          "name": "Tayrine Binde Orben",
+          "email": "prof_tayrineorben@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/ada2ceeba631-Tayrine-300x300.png"
+        },
+        {
+          "name": "Renan Matheus Mendes",
+          "email": "prof_renanmendes@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/454f796469c2-Renan-300x300.png"
+        },
+        {
+          "name": "Roberto Carlos dos Santos",
+          "email": "prof_robertosantos@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/ff131dc1368d-Roberto-Carlos-300x300.png"
+        },
+        {
+          "name": "João Kurita",
+          "email": "prof_joaokurita@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/4420a989d9b8-Joao-K-300x300.png"
+        },
+        {
+          "name": "Arlosandre Junior",
+          "email": "prof_arlosandrebatista@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d482f70ea9ce-Arlosandre-300x300.png"
+        },
+        {
+          "name": "Jesica Santos",
+          "email": "prof_jesicasilva@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d9e0957b8751-Jessica-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 795,99*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 846,80",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Prof. Jefferson Silvestre Alberti dos Santos</p>\n<p>administracao@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p>Resultados da Avaliação Institucional</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204554824.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/ADM-01-03-e-05-209-1.pdf\">Ingressantes Administração 2022, 2023, 2024 e 2025</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 1.690 de 07 de junho de 2002, publicada em 10 de junho de 2002</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº 481 de 16 de agosto de 2006, publicada em 17 de agosto de 2006</p>\n<p><strong>RENOVAÇÃO</strong></p>\n<p>Portaria nº 306 de 02 de agosto de 2011, publicada em 08 de agosto de 2011</p>\n<p>Portaria nº 703 de 18 de dezembro de 2013, publicada em 19 de dezembro de 2013</p>\n<p>Portaria nº 268 de 03 de abril de 2017, publicada em 04 de abril de 2017</p>\n<p>Portaria nº 207 de 25 de junho de 2020, publicada em 07 de julho de 2020</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PPC-Administracao_2019_Final.pdf\">PPC Administração</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Direito | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/direito/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/direito/\",\"name\":\"Direito - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2015-12-14T10:34:38+00:00\",\"dateModified\":\"2026-09-16T22:57:03+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/direito/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/direito/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/direito/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Direito\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 0.07em !important; vertica",
+      "name": "Direito",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=123",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2015/12/565203-PL5QXG-494.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-35-ok.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204757262.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204757262-300x171.png"
+      ],
+      "localImage": "assets/course-1.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-1.html",
+      "slug": "direito",
+      "mode": "Presencial",
+      "description": "<p><div>\n<div>\n<p>Como ciência responsável pela aplicabilidade das normas jurídicas vigentes em um país, o Direito organiza as relações entre os indivíduos e sociedade, zelando por um processo harmônico e pelo acompanhamento e correção das relações entre os cidadãos, as empresas e o poder público.</p>\n<p>O curso de Direito da UCP, reconhecido e conceituado como um dos melhores do estado, busca o desenvolvimento coletivo e individual de seus acadêmicos, levando-os a fomentar pesquisas, discussões e projeções da futura carreira, sempre com o acompanhamento dos professores e da coordenação do curso, visando a formação de um cidadão responsável e competente, o qual siga os preceitos da ética da moral no desempenho de suas funções.</p>\n</div>\n</div>\n<div></div>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Que tal estudar em uma das melhores graduações do Paraná? O curso de Direito é um dos mais tradicionais e renomados, formando profissionais com senso crítico e potencial para transformar a sociedade.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>Há duas grandes áreas de atuação: ADVOCACIA: representar empresas, instituições ou pessoas e defender seus direitos; ou CARREIRA JURÍDICA: atuar em órgãos públicos, conduzindo investigações ou fazendo a intermediação de ações e processos.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>Após cinco anos de muito estudo, você encontra um mercado com inúmeras possibilidades de atuação, seja em órgãos públicos ou na iniciativa privada, sendo na área tributária, advogado trabalhista ou direito previdenciário.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Núcleo de Práticas Jurídicas (NPJ)",
+          "html": " O Núcleo de Práticas Jurídicas é um local de aprendizado, onde os acadêmicos do curso de Direito desenvolvem seus estágios e possuem contato direto com a população. Através de ações prestadas, os alunos colocam em prática todo conhecimento jurídico adquirido em sala de aula, além de prestarem um importante serviço à sociedade. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Tatiani Maria Garcia de Almeida",
+          "email": "prof_tatiani.almeida@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/3965650799043949",
+          "image": "/assets/documentos/6fa32b3074cd-Tati-300x300.png"
+        },
+        {
+          "name": "Renan Matheus Mendes",
+          "email": "prof_renan.mendes@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/8479259381057260",
+          "image": "/assets/documentos/454f796469c2-Renan-300x300.png"
+        },
+        {
+          "name": "Andre Pedroso Kasemirski",
+          "email": "prof_andrekasemirski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/ce9cd93004b6-Andre-300x300.png"
+        },
+        {
+          "name": "Edimara Vidal de França Renauer",
+          "email": "prof_edimararenauer@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/ef8dd04605ff-Edimara-300x300.png"
+        },
+        {
+          "name": "Monike Gomes de Jesus",
+          "email": "prof_monikejesus@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/346f0114bb3a-Monike-300x300.png"
+        },
+        {
+          "name": "Marcos Vinicius Pacheco Aguiar",
+          "email": "prof_marcosaguiar@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d3c5d9859f19-Marcio-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 1.321,60*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.468,44",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Tatiani Maria Garcia de Almeida</p>\n<p>direito@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p>Resultados da Avaliação Institucional</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204757262.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/DTO-01-03-05-07-e-09-191.pdf\">Ingressantes Direito 2022, 2023, 2024, 2025 e 2026</a></p>\n<p>&nbsp;</p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 2.649 de 20 de setembro de 2002, publicada em 23 de setembro de 2002</p>\n<p>&nbsp;</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº1. 756 de 11 de dezembro de 2009, publicada em 14 de dezembro de 2009</p>\n<p>&nbsp;</p>\n<p><strong>RENOVAÇÃO DE RECONHECIMENTO</strong></p>\n<p>Portaria  nº 575 de 30 de setembro de 2016,publicada em 03 de outubro de 2016</p>\n<p>Portaria nº 268 de 03 de abril de 2017, publicada em 04 de abril de 2017</p>\n<p>Portaria nº 207 de 25 de junho de 2020, publicada em 07 de julho de 2020</p>\n<p>Portaria SERES/MEC nº 386 de 13 de agosto de 2024, publicada em 14 de agosto de 2024</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PPC-Direito-2021.pdf\">PPC Direito</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Medicina Veterinária | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/medicina-veterinaria/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/medicina-veterinaria/\",\"name\":\"Medicina Veterinária - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2016-06-08T16:09:20+00:00\",\"dateModified\":\"2026-09-16T22:56:07+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/medicina-veterinaria/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/medicina-veterinaria/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/medicina-veterinaria/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Medicina Veterinária\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shad",
+      "name": "Medicina Veterinária",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=1724",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2016/06/448937-PEVZJ4-346.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/06/2019-Abertura-da-Clínica-Veterinária-UCPVET-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/06/Faculdade-UCP-18-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/06/Faculdade-UCP-11-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/06/Faculdade-UCP-7-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/06/Medicina-Veterinaria-1.png",
+        "https://ucpparana.edu.br/content/uploads/2016/06/Medicina-Veterinaria-1-300x191.png"
+      ],
+      "localImage": "assets/course-2.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-2.html",
+      "slug": "medicina-veterinaria",
+      "mode": "Presencial",
+      "description": "<p><p>O médico veterinário é responsável pela assistência clínica e cirúrgica a animais domésticos e silvestres. O profissional cuida da saúde, alimentação e reprodução de rebanhos e inspeciona a produção de alimentos de origem animal.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Gostar de animais e saber como lidar com eles é uma característica importante do curso. Você terá uma formação abrangente, interativa e como sensibilidade para cuidar dos animais.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>Poderá atuar em clínica de animais domésticos, clínica de grandes animais, fazendas, propriedades rurais, controle do beneficiamento de produtos de origem animal em agroindústrias, defesa sanitária, melhoramento genético ou saúde pública.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "UCPVet",
+          "html": " A UCPVet é composta por clínica escola de pequenos e grandes animais, com uma estrutura incrível para atender os alunos em aulas práticas e iniciação à prática hospitalar. "
+        },
+        {
+          "title": "Laboratório de Biologia Celular",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Laboratório de Microbiologia e Fitopatologia",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Laboratório de Anatomia Animal",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Bruna Leticia Silva",
+          "email": "prof_brunasilva@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/3976368387561411",
+          "image": "/assets/documentos/da8670cca4f7-Bruna-300x300.png"
+        },
+        {
+          "name": "Daiane Secco",
+          "email": "prof_daianesecco@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/9230677000250203",
+          "image": "/assets/documentos/49a645f44f9c-Daiane-300x300.png"
+        },
+        {
+          "name": "Ana Flavia Weber Valentim",
+          "email": "prof_anavalentim@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/5255458666475732",
+          "image": "/assets/documentos/de2d25da1a98-Ana-Flavia-300x300.png"
+        },
+        {
+          "name": "Gabriela de Cássia Javorski",
+          "email": "prof_gabrielajavorski@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/4415830714072231",
+          "image": "/assets/documentos/7a70fe5a76be-Gabriela-300x300.png"
+        },
+        {
+          "name": "Cristiane Hauck Wendel",
+          "email": "prof_cristianewendel@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d8a2dc05647e-Cristiane-300x300.png"
+        },
+        {
+          "name": "Gizeli Gonçalves",
+          "email": "prof_gizeligoncalves@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/eebaf64b27e0-Gizeli-300x300.png"
+        },
+        {
+          "name": "Eridiane Helena de Lara Binde",
+          "email": "prof_eridianebinde@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/967c520ffddf-Eridiane-300x300.png"
+        },
+        {
+          "name": "João Paulo Stoski",
+          "email": "prof_joaostoski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/e416074f54dc-Joao-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 1.872,21*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 2.228,82",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p><strong><em>Profa. Bruna Letícia Silva</em></strong></p>\n<p>medicinaveterinaria@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p><strong>Resultados da Avaliação Institucional</strong></p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2016/06/Medicina-Veterinaria-1.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "Matriz",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2016/06/MED-01-03-e-05-210.pdf\">Ingressantes Medicina Veterinária</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 202, de 02 de junho de 2016, publicada em 06 de junho de 2016</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <a href=\"https://ucpparana.edu.br/content/uploads/2016/06/PPC-MEDICINA-VETERINARIA-2024-1-1.pdf\">PPC Medicina Veterinária UCP</a>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Engenharia Agronômica | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/engenharia-agronomica/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/engenharia-agronomica/\",\"name\":\"Engenharia Agronômica - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2016-01-20T19:16:06+00:00\",\"dateModified\":\"2026-09-16T22:56:20+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/engenharia-agronomica/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/engenharia-agronomica/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/engenharia-agronomica/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Engenharia Agronômica\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; ",
+      "name": "Engenharia Agronômica",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=496",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2016/01/5863.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/01/WIN_20161019_073915-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/01/Faculdade-UCP-10-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/01/Faculdade-UCP-21-1.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2016/01/imagem_2022-06-28_205221118.png",
+        "https://ucpparana.edu.br/content/uploads/2016/01/imagem_2022-06-28_205221118-300x175.png"
+      ],
+      "localImage": "assets/course-3.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-3.html",
+      "slug": "engenharia-agronomica",
+      "mode": "Presencial",
+      "description": "<p><p>O profissional de Engenharia Agronômica da UCP tem formação equilibrada, espírito crítico e reflexivo, visão cultural ampla e compromisso social além de serem capacitados, de forma científica e profissional, a absorver e desenvolver tecnologias, bem como a identificar e resolver problemas, considerando seus aspectos políticos, econômicos, sociais, ambientais e culturais, com visão ética e humanística, em atendimento às demandas da sociedade.</p>\n<p>Também são capacitados para a proposição e execução de projetos que possibilitem ações equilibradas entre desenvolvimento social e econômico às famílias rurais e sustentabilidade ambiental nos processos de produção agrícola; além da produção de alimentos com quantidade e qualidade adequadas ao meio e às demandas sociais.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>O curso de Engenharia Agronômica forma profissionais com competências e habilidades para participarem de diversas etapas da produção das mais diversas commodities agrícolas brasileiras, proporcionando uma rápida inserção do profissional no mercado de trabalho.</p>\n<p>&nbsp;</p>\n<p>Além disso, há uma alta demanda por profissionais em todo território nacional, bem como elevada valorização no mercado, com salários compatíveis com sua formação inovadora e de qualidade.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>As áreas de atuação são diversas, desde a produção vegetal, como as culturas de verão e de inverno, plantas medicinais, fruticultura, olericultura e silvicultura, mas também na produção animal, como a bovinocultura de corte e leite, suinocultura e avicultura.</p>\n<p>&nbsp;</p>\n<p>E ainda, o profissional Engenheiro Agrônomo está apto a projetar e conduzir pesquisas, coletar e analisar dados, interpretar informações e difundir os resultados e o conhecimento tanto para a comunidade acadêmica quanto para a sociedade.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>O curso oferece uma formação ampla, proporcionando ao futuro egresso a possibilidade de escolha da área em que deseja atuar. No entanto, como principal característica, o ambiente de trabalho é o campo, assessorando agronegócios ou atuando em consultorias técnicas.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Centro de Práticas Agronômicas",
+          "html": " É o principal laboratório do curso, sendo promovido o ensino e a pesquisa pelo contato direto com as mais novas tecnologias agrícolas, auxiliando com a formação dos acadêmicos com a realização de aulas práticas, desenvolvimento de pesquisas aplicadas e aperfeiçoamento do conhecimento. "
+        },
+        {
+          "title": "Sala de Desenho Técnico",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Laboratório de Química e Bioquímica",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Ricardo Cardoso Fialho",
+          "email": "prof_ricardofialho@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/3937668707981051",
+          "image": "/assets/documentos/5b909aa1cab5-Ricardo-300x300.png"
+        },
+        {
+          "name": "Vladimir Gonçalves",
+          "email": "prof_vladimirgoncalves@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/b9d22dd707fe-Vladimir-300x300.png"
+        },
+        {
+          "name": "Daiane Secco",
+          "email": "prof_daianesecco@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/9230677000250203",
+          "image": "/assets/documentos/49a645f44f9c-Daiane-300x300.png"
+        },
+        {
+          "name": "Andre Luiz de Alves de Lima",
+          "email": "prof_andre.lima@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/1069988721652664",
+          "image": "/assets/documentos/e991b86e84a4-Andre-300x300.png"
+        },
+        {
+          "name": "Cristiane Hauck Wendel",
+          "email": "prof_cristianewendel@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d8a2dc05647e-Cristiane-300x300.png"
+        },
+        {
+          "name": "Gabriela de Cassiá Javorski",
+          "email": "prof_gabrielajavorski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/7a70fe5a76be-Gabriela-300x300.png"
+        },
+        {
+          "name": "James Matheus Ossacz Laconski",
+          "email": "prof_jameslaconski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/b36bfe2b792c-James-300x300.png"
+        },
+        {
+          "name": "Jeferson Ziebarth",
+          "email": "prof_jefersonziebarth@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/b0726ab0cdab-Jeferson-300x300.png"
+        },
+        {
+          "name": "Maicon Javorski",
+          "email": "prof_maiconjavorski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/2c78866237d3-Maicon-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 1.419,14*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.576,82",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p><strong>Coordenação</strong><br>\nProf. Ricardo Cardoso Fialho</p>\n<p>engenhariaagronomica@ucpparana.edu.br</p>\n<p>prof_ricardofialho@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2016/01/imagem_2022-06-28_205221118.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2016/01/ENG-03-e-05-211.pdf\">Ingressantes Engenharia Agronômica 2022</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2016/01/ENG-01-218.pdf\">Ingressantes Engenharia Agronômica 2023, 2024, 2025 e 2026</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 1.040 de 23 de dezembro de 2015, publicada em 24 de dezembro de 2015.</p>\n<p>&nbsp;</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº 891 de 20 de setembro de 2022, publicada em 20 de setembro de 2022.</p>\n<p>&nbsp;</p>\n<p><strong>RENOVAÇÃO DE RECONHECIMENTO</strong></p>\n<p>Portaria SERES/MEC nº 14 de 02 de fevereiro de 2026, publicada em 03 de fevereiro de 2026 (*).</p>\n<p>(*) Republicada em 22 de abril de 2026, por ter saído, no DOU <span>nº 23, de 3-2-2026, Seção 1, págs. 55 a 67, com incorreção do original.</span></p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2016/01/PPC-Engenharia-Agrono%CC%82mica_Versao_Final.pdf\">PPC Engenharia Agronômica</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Enfermagem | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/enfermagem/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/enfermagem/\",\"name\":\"Enfermagem - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2022-10-14T17:39:56+00:00\",\"dateModified\":\"2026-09-16T22:55:46+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/enfermagem/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/enfermagem/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/enfermagem/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Enfermagem\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 0.",
+      "name": "Enfermagem",
+      "url": "https://ucpparana.edu.br/?post_type=cursos&p=34117",
+      "images": [],
+      "localImage": "assets/course-4",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-4.html",
+      "slug": "enfermagem",
+      "mode": "Presencial",
+      "description": "<p><p>O curso de Enfermagem propõe-se, por meio das ações de prevenção e promoção à saúde humana, ser referência de qualidade na área da educação, na pesquisa e na extensão, em busca da excelência profissional. Por meio de um processo coletivo, preparar o enfermeiro cidadão, comprometido com a melhoria das condições de vida e de saúde da população.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Você gosta de promover o bem-estar do próximo? Os enfermeiros trabalham com a vida das pessoas, em uma rotina de cuidados e procedimentos, mas também com atenção e amor pelo próximo.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>Coordenar e supervisionar atividades, além de cuidar das pessoas, prestando assistência aos pacientes, garantindo o bem-estar durante o tratamento de doenças ou internação hospitalar.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>Você poderá desenvolver seus conhecimentos em hospitais, clínicas, ambulatórios, serviços de emergência (Samu), empresas (enfermagem do trabalho) ou atendimento domiciliar.</p>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [
+        {
+          "name": "Gabriela Sabaine Pinto",
+          "email": "prof_gabrielapinto@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/d90f259c6fa7-Gabriela-2-300x300.png"
+        },
+        {
+          "name": "Tiago Lorenzi Poluha",
+          "email": "prof_tiagopoluha@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/e6b6ebc557a2-Thiago-300x300.png"
+        },
+        {
+          "name": "Gabriela de Cássia Javorski",
+          "email": "prof_gabrielajavorski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/7a70fe5a76be-Gabriela-300x300.png"
+        },
+        {
+          "name": "Adriana Angela de Brito Sega",
+          "email": "prof_adrianasega@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/9cb98218cbea-Adriana-300x300.png"
+        },
+        {
+          "name": "Jeferson Ziebarth",
+          "email": "prof_jefersonziebarth@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/b0726ab0cdab-Jeferson-300x300.png"
+        },
+        {
+          "name": "Caroline Gomes Hardt",
+          "email": "prof_carolinehardt@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/6ebc97b1b19a-Caroline-300x300.png"
+        },
+        {
+          "name": "Marcio Michalski",
+          "email": "prof_marciomichalski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/a480bcec995b-Marcio-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 1.066,12*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.239,67",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Gabriela Sabaini Pinto<br>\nenfermagem@ucpparana.edu.br</p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 12 de 10 de março de 2023, publicada em 13 de março de 2023.</p>\n  "
+        },
+        {
+          "title": "Perfil do Profissional",
+          "html": " <p>O curso de Enfermagem da UCP tem seu currículo estruturado para a formação de profissionais com o seguinte perfil do formando egresso/profissional: Enfermeiro, com formação generalista, humanista, crítica e reflexiva. Profissional qualificado para o exercício de Enfermagem, com base no rigor científico e intelectual e pautado em princípios éticos. Capaz de conhecer e intervir sobre os problemas/situações de saúde-doença mais prevalentes no perfil epidemiológico nacional, com ênfase na sua região de atuação, identificando as dimensões bio-psico-sociais dos seus determinantes. Capacitado a atuar, com senso de responsabilidade social e compromisso com a cidadania, como promotor da saúde integral do ser humano.</p>\n<p>&nbsp;</p>\n<p>O Enfermeiro deverá estar apto a desenvolver ações de prevenção, promoção, proteção e reabilitação da saúde, tanto em nível individual quanto coletivo. Cada profissional deve assegurar que sua prática seja realizada de forma integrada e contínua com as demais instâncias do sistema de saúde, sendo capaz de pensar criticamente, de analisar os problemas da sociedade e de procurar soluções para os mesmos. Os profissionais devem realizar seus serviços dentro dos mais altos padrões de qualidade e dos princípios da ética/bioética.</p>\n<p>&nbsp;</p>\n<p>Seu trabalho deve estar fundamentado na capacidade de tomar decisões visando o uso apropriado, eficácia e custo-efetividade, da força de trabalho, de medicamentos, de equipamentos, de procedimentos e de práticas. Para este fim, os mesmos devem possuir competências e habilidades para avaliar, sistematizar e decidir as condutas mais adequadas, baseadas em evidências científicas.</p>\n<p>&nbsp;</p>\n<p>Também devem ser acessíveis e devem manter a confidencialidade das informações a eles confiadas, na interação com outros profissionais de saúde e o público em geral. A comunicação envolve comunicação verbal, não-verbal e habilidades de escrita e leitura; o domínio de, pelo menos, uma língua estrangeira e de tecnologias de comunicação e informação.<br>\nAtuando em equipe multiprofissional, os profissionais de saúde deverão estar aptos a assumir posições de liderança, sempre tendo em vista o bem-estar da comunidade. A liderança envolve compromisso, responsabilidade, empatia, habilidade para tomada de decisões, comunicação e gerenciamento de forma efetiva e eficaz.</p>\n<p>&nbsp;</p>\n<p>Nas atividades administrativas, o enfermeiro deve estar apto a tomar iniciativas, fazer o gerenciamento e administração tanto da força de trabalho quanto dos recursos físicos e materiais e de informação, da mesma forma que deve estar apto a ser empreendedor, gestor, empregador ou liderança na equipe de saúde.</p>\n<p>&nbsp;</p>\n<p>No campo da educação permanente, os enfermeiros devem ser capazes de aprender continuamente, tanto na sua formação quanto na sua prática. Dessa forma, os profissionais de saúde devem aprender a aprender e ter responsabilidade e compromisso com a sua educação e o treinamento/estágio das futuras gerações de profissionais, proporcionando condições para que haja benefício mútuo entre os futuros profissionais e os profissionais dos serviços, inclusive, estimulando e desenvolvendo a mobilidade acadêmico/profissional, a formação e a cooperação por meio de redes nacionais e internacionais.</p>\n  "
+        },
+        {
+          "title": "Trabalho de Curso",
+          "html": " <p>O Trabalho de Curso (TC) está fundamentado nas Diretrizes Curriculares Nacionais do Curso de Enfermagem, em acordo com a Resolução CNE/CES Nº3, de 7 de novembro de 2001. É de exigência obrigatória para o curso de Enfermagem, já que é um estágio inicial da vida científica do aluno.</p>\n<p>&nbsp;</p>\n<p>Para o seguimento da elaboração do TC, o Curso de Enfermagem deverá estar inserido em algumas Linhas de Pesquisa, dando suporte às escolhas dos temas dos alunos. Essas linhas são: Fundamentos de Enfermagem, Assistência de Enfermagem, Administração de Enfermagem e Ensino em Enfermagem.</p>\n<p>&nbsp;</p>\n<p>O Trabalho de Curso tem a função de organizar os conteúdos obtidos pelos acadêmicos no decorrer do Curso de Graduação, na medida em que estes escolhem temas de pesquisa e desenvolvem reflexões relacionadas com os conhecimentos trabalhados nas disciplinas.</p>\n<p>&nbsp;</p>\n<p>O TC deve oferecer aos acadêmicos a oportunidade de desenvolver procedimentos metodológicos e de pesquisa que propiciem sistematizar, na prática, as noções teóricas adquiridas. Portanto, consiste em realizar uma pesquisa orientada e propiciar o desenvolvimento da produção científica. O número de vagas para orientação de cada professor vai depender dos padrões de qualidade do curso.</p>\n  "
+        },
+        {
+          "title": "Estágio Supervisionado",
+          "html": " <p>O Estágio Curricular Supervisionado do Curso de Enfermagem é obrigatório. Acontece nos sétimo e oitavo períodos do curso.</p>\n<p>Ele visa o aprimoramento dos conhecimentos adquiridos durante a graduação, concedendo ao aluno a oportunidade de vivenciar a prática profissional do enfermeiro antes da sua inserção no mercado de trabalho.</p>\n<p>&nbsp;</p>\n<p>Os níveis de atuação para a realização dos estágios são: ambulatorial, hospitalar, comunitário/unidades básicas de saúde e outros. As disciplinas que estão inseridas nas práticas de campo são as seguintes: Enfermagem em Doenças Transmissíveis, Enfermagem Médico-Cirúrgica, Enfermagem em Pronto-Socorro, Enfermagem em Saúde Pública, Enfermagem Psiquiátrica, Enfermagem Obstétrica e Ginecológica, Enfermagem em Unidades de Cuidados Intensivos, Enfermagem Pediátrica e Neonatal, Administração em Unidades de Internação, Administração em Unidades Básicas de Saúde.</p>\n<p>&nbsp;</p>\n<p>O estágio proporciona ao aluno a prática relacionada às diferentes disciplinas apresentadas durante o curso. Favorece o conhecimento do trabalho multidisciplinar, o contato direto com o paciente, familiares e comunidade. Fornece o campo necessário à pesquisa e às diferentes práticas que devem ser adotadas a cada caso.</p>\n<p>&nbsp;</p>\n<p>Conforme indicado na Matriz Curricular do Curso e do ponto de vista acadêmico, o Estágio consiste em atividades práticas realizadas pelo acadêmico, com a supervisão de um professor designado para essas atividades. Portanto, são atividades obrigatórias do curso para consolidar as competências estabelecidas, permitindo, assim, que os conhecimentos, habilidades e atitudes se concretizem em ações, voltadas às dimensões do ser, do saber, do saber fazer e do conviver, delineando-se, dessa forma, o perfil do egresso.</p>\n<p>&nbsp;</p>\n<p><b>REGULAMENTAÇÃO</b></p>\n<p>O Estágio Supervisionado do Curso de Enfermagem será regulamentado institucionalmente pelo CONSEPE no momento oportuno de oferta.</p>\n  "
+        },
+        {
+          "title": "Atividades Complementares",
+          "html": " <p>As Atividades Complementares, conforme dita o Curso de Graduação em Enfermagem, definem-se como mecanismos de aproveitamento de conhecimentos adquiridos pelo estudante, através de estudos e práticas independentes, presenciais e/ou à distância, a saber: monitorias e estágios; programas de iniciação científica; programas de extensão; estudos complementares; cursos realizados em outras áreas afins, visitas técnicas e estágios de observação.</p>\n<p>&nbsp;</p>\n<p>Todas essas ações estão inseridas nas práticas de ensino, pesquisa e extensão, são de caráter obrigatório e deverão ser desenvolvidas até a finalização do curso de Enfermagem.</p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2022/10/ENF-01-217.pdf\">Ingressantes Enfermagem</a></p>\n  <div><a href=\"https://ucpparana.edu.br/content/uploads/2022/10/217-ENF-01-1.pdf\">Download</a></div>  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Psicologia | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/psicologia/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/psicologia/\",\"name\":\"Psicologia - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2022-09-19T18:44:45+00:00\",\"dateModified\":\"2026-09-16T22:55:55+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/psicologia/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/psicologia/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/psicologia/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Psicologia\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 0.",
+      "name": "Psicologia",
+      "url": "https://ucpparana.edu.br/?post_type=cursos&p=34032",
+      "images": [],
+      "localImage": "assets/course-5",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-5.html",
+      "slug": "psicologia",
+      "mode": "Presencial",
+      "description": "<p><p>A formação de Psicólogo apresenta interfaces com as Ciências da Saúde, Humanas e Sociais, tendo como finalidade a compreensão da construção do humano em suas múltiplas dimensões, contemplando diferentes correntes de pensamento e referenciais teóricos.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Toda profissão define-se a partir de um corpo de práticas que busca atender demandas sociais e culturais. Norteados por elevados padrões no processo de ensino e aprendizagem, o psicólogo formado pelo curso de Psicologia, da UCP, será um profissional capacitado para o exigente mercado de trabalho.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>A graduação dará ao aluno a possibilidade de uma formação baseada na compreensão crítica da realidade social, cultural, econômica e política, no respeito aos princípios éticos nas relações humanas, profissionais, de pesquisa e extensão.</p>\n<p>O curso também possibilitará ao acadêmico o domínio das habilidades sociais e psicológicas necessárias para a atuação em diferentes contextos. Desde os primeiros períodos, os alunos entrarão em contato com a diversidade de perspectivas e abordagens, sendo treinados para a atuação em equipes multi e interprofissionais.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>– Psicologia Escolar/Educacional;</p>\n<p>– Psicologia Organizacional e do Trabalho;</p>\n<p>– Psicologia de Trânsito;</p>\n<p>– Psicologia Jurídica;</p>\n<p>– Psicologia do Esporte;</p>\n<p>– Psicologia Clínica;</p>\n<p>– Psicologia Hospitalar;</p>\n<p>– Psicopedagogia;</p>\n<p>– Psicomotricidade;</p>\n<p>– Psicologia Social;</p>\n<p>– Neuropsicologia.</p>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [
+        {
+          "name": "Ana Bella dos Santos",
+          "email": "psicologia@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/f244bc0b91b5-Ana-Bella-300x300.png"
+        },
+        {
+          "name": "Mylena Jacinty",
+          "email": "prof_mylenajacinty@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/5c9b21b87546-Mylena-300x300.png"
+        },
+        {
+          "name": "Thamiris Zanin",
+          "email": "prof_thamiriszanin@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/27b2193b6ac0-Thamires-300x300.png"
+        },
+        {
+          "name": "Antony Felipe Oliveira",
+          "email": "prof_antonyoliveira@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/5e4c727f2da6-Antony-300x300.png"
+        },
+        {
+          "name": "Daniela Cecilia Grisoski",
+          "email": "prof_danielagrisoski@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/8622df6e74ab-Daniela-300x300.png"
+        },
+        {
+          "name": "Tatiani Maria Garcia de Almeida",
+          "email": "prof_tatianialmeida@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/6fa32b3074cd-Tati-300x300.png"
+        },
+        {
+          "name": "Darlan Tales Zantutti",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/d3c66397ca5f-ChatGPT-Image-22-de-jul.-de-2026-13_33_36-300x300.png"
+        },
+        {
+          "name": "Asaf Silas Nunes",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/e484f20790fb-ChatGPT-Image-22-de-jul.-de-2026-13_35_43-300x300.png"
+        },
+        {
+          "name": "Caroline Gomes Hardt",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/6ebc97b1b19a-Caroline-300x300.png"
+        },
+        {
+          "name": "Elisangela Goldacha",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/cd15864fc155-ChatGPT-Image-22-de-jul.-de-2026-13_38_26-300x300.png"
+        },
+        {
+          "name": "Jane Silva Bührer Taques",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/86c58dcd2bfd-ChatGPT-Image-22-de-jul.-de-2026-13_41_43-300x300.png"
+        },
+        {
+          "name": "Juliana Luizetto de Lucca Piemonte",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/615659df0a9f-ChatGPT-Image-22-de-jul.-de-2026-13_39_48-300x300.png"
+        },
+        {
+          "name": "Maria Heloisa Paulini Sargentin",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/a765e42a34a3-ChatGPT-Image-22-de-jul.-de-2026-13_42_46-300x300.png"
+        },
+        {
+          "name": "Sandro Roberto Mazurechen",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/3315b3cbdd0d-ChatGPT-Image-22-de-jul.-de-2026-13_43_57-300x300.png"
+        },
+        {
+          "name": "Paulo Ricardo Soethe",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/6d783148046a-Paulo-300x300.png"
+        },
+        {
+          "name": "Gabriela de Cassia Javorski",
+          "email": "",
+          "cv": "",
+          "image": "/assets/documentos/7a70fe5a76be-Gabriela-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 1.184,58*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.377,42",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "COORDENAÇÃO",
+          "html": " <p><strong>Coordenação</strong></p>\n<p>Ana Bela dos Santos</p>\n<p>&nbsp;</p>\n<p><strong>Coordenação Adjunta</strong></p>\n<p>Mylena Jacinty</p>\n<p>&nbsp;</p>\n<p><strong>E-mail</strong></p>\n<p>psicologia@ucpparana.edu.br</p>\n  "
+        },
+        {
+          "title": "Perfil do Profissional",
+          "html": " <p>A proposta pedagógica do Curso de Psicologia da UCP visa qualificar o profissional para atuar de maneira ética e responsável em sua realidade econômica, social e cultural, a serviço da comunidade local e regional, permitindo-lhe apropriar-se da interdependência dos aspectos teóricos e práticos da Psicologia. Para isto será estimulado o espírito de investigação, que permitirá a contextualização do conhecimento científico em seu entorno social, para uma compreensão integral do fenômeno psicológico através do planejamento e desenvolvimento de pesquisas.</p>\n<p>&nbsp;</p>\n<p>É, portanto, fundamental que o acadêmico aprenda a pensar criticamente os problemas de sua realidade, para assim poder contribuir com as soluções possíveis.</p>\n<p>&nbsp;</p>\n<p>Nesse sentido, a ética constituir-se-á tema transversal de todos os estudos e investigações, dela derivando o respeito às diferenças, o reconhecimento do direito à cidadania e à inclusão social.</p>\n<p>&nbsp;</p>\n<p>O Curso de Formação de Psicólogo, em sua estrutura curricular, apresenta interfaces com as Ciências da Saúde, Humanas e Sociais, tendo como finalidade a compreensão da construção do humano em suas múltiplas dimensões, contemplando diferentes correntes de pensamento e referenciais teóricos. Some-se a isso a reflexão crítica acerca de procedimentos e técnicas utilizados na investigação, pesquisa e intervenção em processos psicológicos, além da garantia de espaço para o estudo e debate de temas emergentes, ligados às diversas áreas interdisciplinares da Psicologia, nos contextos macro e micro-social. Como processo de formação profissional o curso estará direcionado para o desenvolvimento de competências que garantam a intersecção do saber com o fazer psicológico.</p>\n<p>&nbsp;</p>\n<p>Desse modo, acredita-se que o egresso estará apto para as atividades de diagnóstico e intervenção em instituições educacionais (creches e escolas), instituições de saúde e/ou saúde mental (hospitais, centros de saúde, ambulatórios de saúde mental, clínicas psicológicas), instituições sociais (centros esportivos, ONG’s, centros de convivência e comunitários) e organizacionais (empresas públicas, privadas e não governamentais) na perspectiva da prevenção e melhoria da qualidade de vida humana, quer seja de natureza individual ou coletiva.</p>\n<p>&nbsp;</p>\n<p>Para isso, desenvolverá habilidades que o levem a assumir uma postura profissional de entendimento da plenitude da condição humana, o que implica em competências para: diagnosticar, planejar, intervir clínica e institucionalmente, assessorar e acompanhar, tanto no âmbito individual quanto grupal ou comunitário. Ademais, não será esquecida a valorização da habilidade de relacionamento interpessoal para o trabalho em equipes inter e multi profissionais.</p>\n  "
+        },
+        {
+          "title": "Estágio Supervisionado",
+          "html": " <p>Para atender aos padrões de qualidade na formação do Psicólogo, o Curso de Psicologia da UCP oferece Estágios Supervisionados de acordo com o Regulamento de Estágio, com a Legislação Superior, com o Parecer do CNE/CES 1.314, de 7 de novembro de 2001, retificado pelo CNE/CES 72, de 19 de fevereiro de 2002, em adendo ao CNE/CES 62, de 19 de fevereiro de 2004, homologado em 12 de abril de 2004, e Resolução do CNE/CES nº 8 de maio de 2004, que institui as Diretrizes Curriculares Nacionais para os cursos de graduação em Psicologia.</p>\n<p>&nbsp;</p>\n<p>As orientações e procedimentos relativos ao Estágio Curricular Supervisionado encontram-se, descritos de forma detalhada no Regulamento de Estágio.  De modo geral o Estágio de Estudantes é regulamentado pela Lei nº 6.494, de 07/12/1977, Decreto n º 87.497 e Lei 11.788 de 25 de setembro de 2008. No Curso de Psicologia, o estágio será desenvolvido nas áreas que assegurem a participação efetiva do aluno em atividades relacionadas diretamente à orientação acadêmica do curso. O Estágio Curricular Supervisionado terá a carga horária mínima de 880 horas, incluindo o Estágio Básico e o Específico.</p>\n<p>&nbsp;</p>\n<p>O estágio deverá possibilitar as seguintes experiências:</p>\n<ul>\n<li>Conhecimento/mapeamento da realidade da profissão;</li>\n<li>Co-atuação profissional;</li>\n<li>Atuação profissional.</li>\n</ul>\n  "
+        },
+        {
+          "title": "Atividades Complementares",
+          "html": " <p>As Atividades Complementares constituem-se em ações de ensino, pesquisa e extensão de caráter obrigatório a serem desenvolvidas pelo acadêmico no transcorrer do Curso de Graduação em Psicologia da UCP. Os objetivos gerais das atividades complementares são os de flexibilizar o currículo do Curso e propiciar aos seus acadêmicos a possibilidade de aprofundamento temático e interdisciplinar e, ainda, incentivar o aluno a participar de experiências diversificadas que contribuam para a sua formação humana e profissional, atendendo às diretrizes nacionais do ensino de Psicologia.</p>\n<p>&nbsp;</p>\n<p>As Atividades Complementares, com regulamento próprio, totalizam 200 horas e fazem parte do currículo do Curso, constituindo-se em uma das dimensões do Projeto Pedagógico que garante a articulação teoria-prática. Seu cumprimento deve distribuir-se ao longo de todo o Curso de Graduação. Dessa forma, através da realização das atividades acadêmicas complementares, o acadêmico, desde o início de sua formação, pode participar de eventos científicos em Psicologia, entrar em contato com a prática profissional, participar de atividades de extensão e pesquisa e realizar prática profissional supervisionada em estágios curriculares não obrigatórios.</p>\n<p>&nbsp;</p>\n<p>O acadêmico de Psicologia tem a liberdade de escolher as atividades a serem desenvolvidas ao longo de sua formação, desde que respeite as normas do curso para realização das atividades. Estas normas são derivadas da Instrução Normativa da UCP. São ofertadas pelo curso, em todos os semestres, atividades acadêmicas que ocorrem na Instituição. Podem ser contabilizadas outras atividades oferecidas por outros cursos da Instituição ou propostas pelo próprio aluno, desde que o mesmo siga os critérios estabelecidos nas normas do curso. Todas as atividades consideradas como complementares devem ser obrigatoriamente comprovadas. Os documentos que comprovam a referida atividade devem ser encaminhados às instâncias cabíveis, no semestre em que o aluno realizar a atividade, para a validação das horas na grade curricular.</p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2022/09/Matriz-Psicologia-2026.pdf\">Matriz Curricular Psicologia</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal",
+          "html": " <p>PORTARIA N° 862, DE 29 de agosto de 2022, publicado no DOU 30/08/2022</p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Educação Física Bacharelado | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-bacharelado/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/educacao-fisica-bacharelado/\",\"name\":\"Educação Física Bacharelado - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2015-12-14T10:35:04+00:00\",\"dateModified\":\"2026-09-16T22:56:53+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-bacharelado/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/educacao-fisica-bacharelado/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-bacharelado/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Educação Física Bacharelado\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { displ",
+      "name": "Educação Física Bacharelado",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=124",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2015/12/707.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-42.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-48.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-51.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204931958.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204931958-300x176.png"
+      ],
+      "localImage": "assets/course-6.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "4 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-6.html",
+      "slug": "educacao-fisica-bacharelado",
+      "mode": "Presencial",
+      "description": "<p><p>O Bacharel em Educação Física do UCP forma profissionais capazes de realizar estudos e pesquisas de forma sistemática, dominar técnicas e metodologias que lhe permitam desenvolver progressivamente sua profissão de educador físico, utilizar-se de recursos da tecnologia da informação e da comunicação de forma a aumentar as possibilidades do processo, para melhor atender seus clientes assim como demonstrar liderança na relação com as pessoas, clareza, adequação e objetividade nas formas de comunicação escrita, verbal e não-verbal promovendo o reconhecimento da linguagem corporal e desenvoltura na atuação profissional, de modo a conduzir adequadamente sua atividade.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Seguindo as orientações das Diretrizes Curriculares Nacionais para os Cursos Graduação em Educação Física, a UCP busca a formação de profissionais Bacharéis em Educação Física, com conhecimentos, habilidades e atitudes, para atuar nos diversos segmentos <strong>não escolares</strong> com excelência, ética e responsabilidade social.</p>\n<p>Nesta perspectiva o graduado em Educação Física da UCP deverá estar capacitado a atuar nos diversos segmentos da organização social, pública e particular, Instituições e Academias Especializadas, Centros Comunitários, Condomínios, Hospitais, Creches, Hotéis, Clínicas, Prestação de Serviço e tudo o mais que se relacionar com a Educação Física, o Esporte, a saúde e o Lazer.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Sala de Musculação",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Ginásio Esportivo",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Parede de Escalada",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Paulo Ricardo Soethe",
+          "email": "prof_paulorsoethe@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/2208029983347210",
+          "image": "/assets/documentos/6d783148046a-Paulo-300x300.png"
+        },
+        {
+          "name": "Grasiele Orsi Bortolan",
+          "email": "prof_grasielebortolan@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/5438104350111349",
+          "image": "/assets/documentos/941ecfc2497f-Grasiele-300x300.png"
+        },
+        {
+          "name": "Silmara Schenekemberg da Silva",
+          "email": "prof_silmarasilva@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/a8a4bbe9d89c-Silmara-300x300.png"
+        },
+        {
+          "name": "Lilian Vanessa de Araujo Godinho",
+          "email": "prof_liliangodinho@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/edc38b7a5cdd-Lilian-300x300.png"
+        },
+        {
+          "name": "Fernando Feliciano Guimarães",
+          "email": "prof_fernandoguimaraes@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/78742a7402e5-Fernando-300x300.png"
+        },
+        {
+          "name": "Fabiana Ramos",
+          "email": "prof_fabianaramos@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/6fe3391a23a7-Fabiana-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 977,82*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.222,28",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Paulo Ricardo Soethe</p>\n<p>educacaofisica@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p>Resultados da Avaliação Institucional</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_204931958.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/Educacao-Fisica-%E2%80%93-Ingressantes-2021-2.pdf\">Educação Física – Ingressantes 2023, 2024, 2025 e 2026</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 112 de  07 de março de 2013, publicada em 08 de março de 2013</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº 651 de 29 de junho de 2017, publicada em 30 de junho de 2017</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PPC-Educacao-Fisica-Bacharelado-2019.pdf\">PPC Educação Física Bacharelado</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "facts": " Educação Física Licenciatura | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-licenciatura/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/educacao-fisica-licenciatura/\",\"name\":\"Educação Física Licenciatura - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2015-12-14T10:36:00+00:00\",\"dateModified\":\"2026-09-16T22:56:43+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-licenciatura/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/educacao-fisica-licenciatura/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/educacao-fisica-licenciatura/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Educação Física Licenciatura\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji",
+      "name": "Educação Física Licenciatura",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=125",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2015/12/707.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-42.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-48.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-51.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205052334.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205052334-300x174.png"
+      ],
+      "localImage": "assets/course-7.jpg",
+      "academic": {
+        "diploma": "Licenciatura",
+        "duration": "4 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-7.html",
+      "slug": "educacao-fisica-licenciatura",
+      "mode": "Presencial",
+      "description": "<p><p>O licenciado em Educação Física da UCP está preparado para atuar na Educação Básica, especialmente no ensino fundamental e médio. Possui competência para planejar, executar e avaliar o componente curricular de Educação Física, compreendendo-o como uma área pedagógica voltada ao desenvolvimento do movimento humano e à superação pessoal.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>O curso de Educação Física da UCP de acordo com o que preconizam as diretrizes curriculares nacionais a Formação de Professores da Educação Básica, em nível superior, em curso de licenciatura, está voltado para a formação do profissional e/ou professor com plena competência e habilidade para atuar na educação básica; o qual deverá estar atento à atual conjuntura brasileira e o estabelecimento de uma nova ordem mundial, bem como criar desafios e levar ao enfrentamento de novas responsabilidades, diante de uma realidade com alterações cada vez mais marcantes, considerando-se as características regionais, identidades culturais, educação ambiental, necessidade das pessoas portadores de deficiência e de grupos especiais.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Sala de Musculação",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Ginásio de Esporte",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Parede de Escalada",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Paulo Ricardo Soethe",
+          "email": "prof_paulorsoethe@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/2208029983347210",
+          "image": "/assets/documentos/6d783148046a-Paulo-300x300.png"
+        },
+        {
+          "name": "Grasiele Orsi Bortolan",
+          "email": "prof_grasielebortolan@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/5438104350111349",
+          "image": "/assets/documentos/941ecfc2497f-Grasiele-300x300.png"
+        },
+        {
+          "name": "Fernando Feliciano Guimarães",
+          "email": "prof_fernandoguimaraes@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/78742a7402e5-Fernando-300x300.png"
+        },
+        {
+          "name": "Silmara Schenekemberg da Silva",
+          "email": "prof_silmarasilva@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/a8a4bbe9d89c-Silmara-300x300.png"
+        },
+        {
+          "name": "Lilian Vanessa de Araujo Godinho",
+          "email": "prof_liliangodinho@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/edc38b7a5cdd-Lilian-300x300.png"
+        },
+        {
+          "name": "Fabiana Ramos",
+          "email": "prof_fabianaramos@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/6fe3391a23a7-Fabiana-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 977,82*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.222,28",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Prof. Paulo Ricardo Soethe</p>\n<p>educacaofisica@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p>Resultados da Avaliação Institucional</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205052334.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/Educacao-Fisica-Licenciatura-%E2%80%93-Ingressantes-2021-1.pdf\">Educação Física Licenciatura – Ingressantes 2023, 2024, 2025 e 2026</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 79 de 11 de janeiro de 2005, publicado em 12 de janeiro de 2005</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº 1.693 de 27 de novembro de 2009, publicado em 30 de novembro de 2009</p>\n<p><strong>RENOVAÇÃO</strong></p>\n<p>Portaria nº 492 de 20 de dezembro de 2011, publicada em 23 de dezembro de 2011</p>\n<p>Portaria nº 286, de 21 de dezembro de 2012, publicada em 27 de dezembro de 2012</p>\n<p>Portaria nº 1.093 de 24 de dezembro de 2015, publicada em 30 de dezembro de 2015</p>\n<p>Portaria nº 916, de 27 de dezembro de 2018, publicada em 28 de dezembro de 2018</p>\n<p>Portaria SERES/MEC nº 151 de 21 de junho de 2023, publicada em 23 de junho de 2023</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PPC-Educacao-Fisica-Licenciatura-2019.pdf\">PPC Educação Física Licenciatura</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16",
+      "imageCredit": "Ginásio de esportes da UCP — acervo institucional"
+    },
+    {
+      "facts": " Pedagogia | UCP Paraná {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://ucpparana.edu.br/#website\",\"url\":\"https://ucpparana.edu.br/\",\"name\":\"UCP Paraná\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ucpparana.edu.br/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://ucpparana.edu.br/cursos/pedagogia/#webpage\",\"url\":\"https://ucpparana.edu.br/cursos/pedagogia/\",\"name\":\"Pedagogia - UCP Paraná\",\"isPartOf\":{\"@id\":\"https://ucpparana.edu.br/#website\"},\"datePublished\":\"2015-12-14T10:37:53+00:00\",\"dateModified\":\"2026-09-16T22:56:32+00:00\",\"breadcrumb\":{\"@id\":\"https://ucpparana.edu.br/cursos/pedagogia/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ucpparana.edu.br/cursos/pedagogia/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ucpparana.edu.br/cursos/pedagogia/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://ucpparana.edu.br/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pedagogia\"}]}]} window._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.1.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/ucpparana.edu.br\\/wp\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.9.3\"}}; /*! This file is auto-generated */ !function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 0.07em !im",
+      "name": "Pedagogia",
+      "url": "https://ucpparana.edu.br/?post_type=graduacao&p=128",
+      "images": [
+        "https://ucpparana.edu.br/content/uploads/2015/12/O6VORN0.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_0988.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/DSC_0233.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_2388-e1522256534570.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/Faculdade-UCP-12.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_6376.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/IMG_20190731_111537.jpg",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205657764.png",
+        "https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205657764-300x176.png"
+      ],
+      "localImage": "assets/course-8.jpg",
+      "academic": {
+        "diploma": "Licenciatura",
+        "duration": "4 anos",
+        "period": "Noturno"
+      },
+      "sourceFile": "sources/course-8.html",
+      "slug": "pedagogia",
+      "mode": "Presencial",
+      "description": "<p><p>O Curso de Pedagogia da UCP oferece ao futuro pedagogo conhecimentos, habilidades e formação de valores, por meio de propostas inovadoras, num ambiente democrático e de valorização humana.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>O Curso de Pedagogia da UCP objetiva formar Licenciados para atuar como professores das Séries Iniciais, Educação Infantil (maternal e pré-escola), Professor Pedagogo em todos os níveis da Educação Básica e Superior, além disso, o Pedagogo pode trabalhar nas Secretarias de Educação de Estados e Municípios. Uma das atividades de maior importância exercida pelo Pedagogo é o acompanhamento do processo de ensino e aprendizagem dos estudantes.</p>\n "
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Brinquedoteca",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca",
+          "html": " A Biblioteca universitária Professora Dirce Doroti Merlin Clève tem a missão de organizar, disseminar e promover a utilização e recuperação da informação, de modo a contribuir para o ensino, pesquisa e extensão de nível superior. O acervo é composto por coleções de referência, livros, periódicos, trabalhos acadêmicos, jornais e multimídia. Atualmente, mais de 40 mil exemplares constituem o acervo. "
+        },
+        {
+          "title": "Salas de Aula",
+          "html": " A UCP investe constantemente na criação de novos espaços, garantindo uma estrutura moderna e de qualidade aos acadêmicos. "
+        },
+        {
+          "title": "Espaço Smart",
+          "html": " O Espaço Smart é mais um ambiente com tecnologia para discussão e compartilhamento de diferentes modelos metodológicos de ensino. "
+        },
+        {
+          "title": "Laboratórios de Informática",
+          "html": " Os laboratórios de informática da UCP contam com equipamentos modernos que que facilitam as atividades dos acadêmicos. "
+        },
+        {
+          "title": "Biblioteca Virtual",
+          "html": " Uma plataforma prática e inovadora, com conteúdo técnico e científico de qualidade, com acesso pelo smartphone, tablet ou computador, com mais de 8 mil exemplares. "
+        }
+      ],
+      "teachers": [
+        {
+          "name": "Elma Kovalim de Souza",
+          "email": "prof_elmasouza@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/3426393765977515",
+          "image": "/assets/documentos/43dbb614fa54-Elma-300x300.png"
+        },
+        {
+          "name": "Paulo Ricardo Soethe",
+          "email": "prof_paulorsoethe@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/2208029983347210",
+          "image": "/assets/documentos/6d783148046a-Paulo-300x300.png"
+        },
+        {
+          "name": "Valdir Machado Guimarães",
+          "email": "prof_valdirguimaraes@ucpparana.edu.br",
+          "cv": "http://lattes.cnpq.br/0787550624713005",
+          "image": "/assets/documentos/ad142a0cfd55-Retrato-profissional-com-jaleco-academico-300x300.png"
+        },
+        {
+          "name": "Helena de Oliveira Andrade",
+          "email": "prof_helenaandrade@ucpparana.edu.br",
+          "cv": "",
+          "image": "/assets/documentos/a3f1c9dba3aa-Helena-300x300.png"
+        }
+      ],
+      "prices": [
+        {
+          "value": "R$ 733,97*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 815,52",
+          "condition": "Valor integral"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação",
+          "html": " <p>Profa. Elma Kovalim de Souza</p>\n<p>pedagogia@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p>Resultados da Avaliação Institucional</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/imagem_2022-06-28_205657764.png\" alt=\"\" loading=\"lazy\"></p>\n  "
+        },
+        {
+          "title": "MATRIZ",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PED-05-212.pdf\">Ingressantes Pedagogia</a></p>\n  "
+        },
+        {
+          "title": "Situação Legal do Curso",
+          "html": " <p><strong>AUTORIZAÇÃO</strong></p>\n<p>Portaria nº 247 de 31 de maio de 2013, publicada em 03 de junho de 2013</p>\n<p><strong>RECONHECIMENTO</strong></p>\n<p>Portaria nº 576 de 09 de junho de 2017, publicada em 12 de junho de 2017</p>\n<p><strong>RENOVAÇÃO</strong></p>\n<p>Portaria nº 916, de 27 de dezembro de 2018, publicada em 28 de dezembro de 2018</p>\n<p>Portaria SERES/MEC nº 151 de 21 de junho de 2023, publicada em 23 de junho de 2023</p>\n  "
+        },
+        {
+          "title": "Projeto Pedagógico do Curso",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2015/12/PPC-Pedagogia-2020.pdf\">PPC Pedagogia</a></p>\n  "
+        }
+      ],
+      "smartContent": "",
+      "importedAt": "2026-10-16"
+    },
+    {
+      "url": "https://ucpparana.edu.br/?post_type=ead&p=32956",
+      "name": "Biomedicina",
+      "sourceFile": "sources/course-9.html",
+      "mode": "Smart",
+      "slug": "biomedicina",
+      "images": [],
+      "localImage": "assets/smart-biomedicina.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "4 anos",
+        "period": "EAD"
+      },
+      "description": "<p><p>O curso de Biomedicina tem a finalidade de formar profissionais empreendedores, comprometidos com o bem-estar biopsicossocial do indivíduo e da coletividade, com enfoque na promoção, recuperação e manutenção da saúde.</p>\n<p>&nbsp;</p>\n<h2></h2>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Você pode trabalhar em hospitais, laboratórios, indústrias farmacêuticas e alimentícias, órgãos públicos de saúde, clínicas de estética, bancos de sangue ou clínicas de reprodução humana e pesquisa genética.</p>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [],
+      "prices": [
+        {
+          "value": "R$ 854,44*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 982,12",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação e Assessoria",
+          "html": " <p><strong>Assessor</strong></p>\n<p>Paulo Ricardo Soethe</p>\n<p><strong>E-mail:</strong> biomedicina@ucpparana.edu.br</p>\n  "
+        },
+        {
+          "title": "Metodologia",
+          "html": " <p>Os Cursos Smart UB trabalham com um método de ensino dinâmico e inovador, mesclando a atuação do professor em sala de aula com a flexibilidade de metodologias inovadoras. Para isso, contamos com Professores Formadores em sala, de modo que os acadêmicos tenham encontros presenciais semanais para abordagem de conteúdo.</p>\n<p>&nbsp;</p>\n<p>Além disso, disponibilizamos um Ambiente Virtual de Aprendizagem que oferece materiais didáticos interativos, aplicando metodologias ativas e linguagem dialógica, contribuindo com o processo de formação do acadêmico.</p>\n<p>&nbsp;</p>\n<p>Tudo isso, permite com que o aluno participe ativamente da construção do conhecimento, promovendo flexibilidade, acessibilidade e autonomia no processo de formação. Todos os nossos professores são mestres ou doutores, profissionais de excelência atuantes no mercado. Além dos Professores Formadores, contamos com uma equipe de tutoria personalizada, composta de profissionais especializados por área de conhecimento, treinados e capacitados para oferecer atendimento pedagógico permanente aos alunos.</p>\n<p>&nbsp;</p>\n<p>Possuímos laboratórios físicos e virtuais de última geração, que possibilitam a realização de experiências realistas e sofisticadas, sobretudo, preparando um profissional planejador e disciplinado, apto as exigências do mercado de trabalho.</p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2021/10/Biomedicina.pdf\">Matriz Biomedicina</a></p>\n  "
+        }
+      ],
+      "smartContent": "<div><h2>As vantagens de fazer os cursos smart</h2><div>  <div><span></span><h3>Coligadas UB</h3><p>Uma parceria do Centro Universitário Campo Real e da UCP.</p></div>  <div><span></span><h3>O que são os cursos Smart UB?</h3><p>São cursos de Ensino Superior com ênfase na Educação Digital, com aplicação de metodologias inovadoras. Os Cursos Smart UB estão alinhados às melhores e mais modernas práticas de inovações tecnológicas, com um currículo inovador e, principalmente, com professores com ampla experiência no mercado de trabalho.</p></div>  <div><span></span><h3>Como serão as aulas?</h3><p>Haverá aulas presenciais todas as semanas, além disso, estamos cada vez mais investindo na Educação Digital e serão promovidas diversas atividades mediadas por tecnologias.</p></div>  <div><span></span><h3>E as atividades práticas em laboratório?</h3><p>Além das aulas presenciais com metodologias inovadoras, haverá experimentos em laboratórios e visitas técnicas. Serão construídos inúmeros laboratórios. E também haverá aulas práticas na sede da Faculdade UCP.</p></div>  <div><span></span><h3>e os professores</h3><p>Todas as aulas, sejam presenciais ou remotas, serão ministradas pelos professores das Coligadas UB, que possuem vasta experiência nas áreas e com metodologias inovadoras. As aulas on-line terão acompanhamento de tutores.</p></div>  <div><span></span><h3>Quais são os incentivos financeiros?</h3><p>Há vários incentivos financeiros para você começar a estudar já. O grande destaque é a Mensalidade Flex, em que você parcela seu curso, totalmente sem juros, com parcelas que cabem no seu bolso. E com o Amigo UCP você ganha 10% de desconto a cada amigo indicado que efetivar a matrícula e para a Segunda Graduação temos o incentivo de 30% de desconto na mensalidade.</p></div>  <div><span></span><h3>Afinal, o que são as coligadas UB?</h3><p>Fazem parte das Coligadas UB as seguintes instituições de ensino superior: Centro Universitário Autônomo do Brasil - UniBrasil (Curitiba, Centro Universitário Campo Real (Guarapuava), Centro Universitário Ugv (União da Vitória), Faculdades do Centro do Paraná - UCP (Pitanga) e Faculdades Integradas do Vale do Ivaí - Univale (Ivaiporã). Juntas, elas reuniram esforços e criaram os Cursos Smart UB.</p></div>  </div></div>",
+      "importedAt": "2026-10-16",
+      "imageAlt": "Fotografia ilustrativa da área de Biomedicina",
+      "photoCredit": {
+        "provider": "Pexels",
+        "photoId": 4033019,
+        "illustrative": true
+      }
+    },
+    {
+      "url": "https://ucpparana.edu.br/?post_type=ead&p=36280",
+      "name": "Engenharia de Software",
+      "sourceFile": "sources/course-10.html",
+      "mode": "Smart",
+      "slug": "engenharia-de-software",
+      "images": [],
+      "localImage": "assets/smart-software.jpg",
+      "description": "<p><p>Engenharia de Software é o curso de quem quer estar por trás das soluções digitais que fazem a sociedade funcionar. Aqui você aprende a projetar, desenvolver e manter sistemas, aplicativos e plataformas que conectam pessoas, empresas e mercados.</p>\n<p>Seja em startups, empresas de tecnologia, indústrias, bancos ou no próprio negócio, a Engenharia de Software abre portas para quem quer construir uma carreira sólida, inovadora e altamente valorizada no mercado.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Engenharia de Software é uma das carreiras mais promissoras da atualidade. Empresas de todos os setores dependem de sistemas, aplicativos e plataformas digitais para operar, crescer e inovar. Ao escolher Engenharia de Software, você entra em um mercado global, com alta demanda e grandes oportunidades.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>Você desenvolverá uma formação sólida em programação, análise de sistemas, desenvolvimento de aplicativos, bancos de dados, segurança da informação e gestão de projetos de software. Vai aprender a criar, testar e manter soluções tecnológicas que atendem às necessidades de empresas e usuários.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>O engenheiro de software pode atuar em empresas de tecnologia, startups, indústrias, instituições financeiras, consultorias, projetos internacionais e também em trabalho remoto, desenvolvendo soluções digitais para diferentes mercados.</p>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [],
+      "prices": [
+        {
+          "value": "R$ 1.017,94*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 1.131,04",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Assessor",
+          "html": " <p><strong>Assessor</strong></p>\n<p>Prof. Willian Szabo</p>\n<p>prof_willianszabo@ucpparana.edu.br</p>\n  "
+        },
+        {
+          "title": "Metodologia",
+          "html": " <p>Os Cursos Smart UB trabalham com um método de ensino dinâmico e inovador, mesclando a atuação do professor em sala de aula com a flexibilidade de metodologias inovadoras. Para isso, contamos com Professores Formadores em sala, de modo que os acadêmicos tenham encontros presenciais semanais para abordagem de conteúdo.</p>\n<p>&nbsp;</p>\n<p>Além disso, disponibilizamos um Ambiente Virtual de Aprendizagem que oferece materiais didáticos interativos, aplicando metodologias ativas e linguagem dialógica, contribuindo com o processo de formação do acadêmico.</p>\n<p>&nbsp;</p>\n<p>Tudo isso, permite com que o aluno participe ativamente da construção do conhecimento, promovendo flexibilidade, acessibilidade e autonomia no processo de formação. Todos os nossos professores são mestres ou doutores, profissionais de excelência atuantes no mercado. Além dos Professores Formadores, contamos com uma equipe de tutoria personalizada, composta de profissionais especializados por área de conhecimento, treinados e capacitados para oferecer atendimento pedagógico permanente aos alunos.</p>\n<p>&nbsp;</p>\n<p>Possuímos laboratórios físicos e virtuais de última geração, que possibilitam a realização de experiências realistas e sofisticadas, sobretudo, preparando um profissional planejador e disciplinado, apto as exigências do mercado de trabalho.</p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p>Matriz Engenharia de Software 2026/1</p>\n  "
+        }
+      ],
+      "smartContent": "<div><h2>As vantagens de fazer os cursos smart</h2><div>  <div><span></span><h3>Coligadas UB</h3><p>Uma parceria do Centro Universitário Campo Real e da UCP.</p></div>  <div><span></span><h3>O que são os cursos smart ub?</h3><p>São cursos de Ensino Superior com ênfase na Educação Digital, com aplicação de metodologias inovadoras. Os Cursos Smart UB estão alinhados às melhores e mais modernas práticas de inovações tecnológicas, com um currículo inovador e, principalmente, com professores com ampla experiência no mercado de trabalho.</p></div>  <div><span></span><h3>Como serão as aulas?</h3><p>Haverá aulas presenciais todas as semanas, além disso, estamos cada vez mais investindo na Educação Digital e serão promovidas diversas atividades mediadas por tecnologias.</p></div>  <div><span></span><h3>E as atividades práticas em laboratório?</h3><p>Além das aulas presenciais com metodologias inovadoras, haverá experimentos em laboratórios e visitas técnicas. Serão construídos inúmeros laboratórios. E também haverá aulas práticas na sede da Faculdade UCP.</p></div>  <div><span></span><h3>e os professores?</h3><p>Todas as aulas, sejam presenciais ou remotas, serão ministradas pelos professores das Coligadas UB, que possuem vasta experiência nas áreas e com metodologias inovadoras. As aulas on-line terão acompanhamento de tutores.</p></div>  <div><span></span><h3>Quais são os incentivos financeiros?</h3><p>Há vários incentivos financeiros para você começar a estudar já. O grande destaque é a Mensalidade Flex, em que você parcela seu curso, totalmente sem juros, com parcelas que cabem no seu bolso. E com o Amigo UCP você ganha 10% de desconto a cada amigo indicado que efetivar a matrícula e para a Segunda Graduação temos o incentivo de 30% de desconto na mensalidade.</p></div>  <div><span></span><h3>Afinal, o que são as coligadas UB?</h3><p>Fazem parte das Coligadas UB as seguintes instituições de ensino superior: Centro Universitário Autônomo do Brasil - UniBrasil (Curitiba, Centro Universitário Campo Real (Guarapuava), Centro Universitário Ugv (União da Vitória), Faculdades do Centro do Paraná - UCP (Pitanga) e Faculdades Integradas do Vale do Ivaí - Univale (Ivaiporã). Juntas, elas reuniram esforços e criaram os Cursos Smart UB.</p></div>  </div></div>",
+      "importedAt": "2026-10-16",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "4 anos",
+        "period": null
+      },
+      "imageAlt": "Fotografia ilustrativa da área de Engenharia de Software",
+      "photoCredit": {
+        "provider": "Pexels",
+        "photoId": 6805152,
+        "illustrative": true
+      }
+    },
+    {
+      "url": "https://ucpparana.edu.br/?post_type=ead&p=32088",
+      "name": "Farmácia",
+      "sourceFile": "sources/course-11.html",
+      "mode": "Smart",
+      "slug": "farmacia",
+      "images": [],
+      "localImage": "assets/smart-farmacia.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "EAD"
+      },
+      "description": "<p><p>O curso de Farmácia forma profissionais para atuarem em todos os níveis de atenção à saúde, sempre com base no rigor científico e intelectual; capacitado no exercício de atividades referentes aos fármacos e aos medicamentos, ao controle de produção e análises de alimentos; na pesquisa, desenvolvimento, seleção, manipulação, produção, armazenamento e controle de qualidade de insumos, fármacos, medicamentos e correlatos.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>O farmacêutico é o profissional que estuda a composição e os processos produtivos de medicamentos, cosméticos e produtos de higiene, entre outros.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <ul>\n<li>O farmacêutico é capaz de produzir medicamentos e cosméticos em qualquer escala.</li>\n<li>Preparar medicamentos personalizados.</li>\n<li>Identificar as reações que determinadas substâncias exercem em nosso organismo.</li>\n<li>Formular cosméticos e produtos de higiene.</li>\n<li>Analisar a composição e controlar a qualidade de alimentos industrializados.</li>\n<li>Examinar e testar novos componentes e princípios ativos.</li>\n</ul>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <ul>\n<li>Farmácia clínica, hospitalar, de manipulação, de homeopatia e de dispensação;</li>\n<li>Atenção e Assistência farmacêutica;</li>\n<li>Indústria medicamentos, cosméticos e alimentos;</li>\n<li>Análises clinicas e toxicológicas e ambientais pesquisa.</li>\n</ul>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [],
+      "prices": [
+        {
+          "value": "R$ 854,44*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 982,12",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação e Assessoria",
+          "html": " <h3>Coordenação</h3>\n<p>Professora Silmara Brietzig Hennrich</p>\n<p><strong>E-mail:</strong> <a href=\"mailto:prof_silmara@ugv.edu.br\">prof_silmara@ugv.edu.br</a></p>\n<p>&nbsp;</p>\n<h3><strong>Assessor</strong></h3>\n<p>Paulo Ricardo Soethe</p>\n<p><strong>E-mail:</strong> <a href=\"mailto:farmacia@ucpparana.edu.br\">farmacia@ucpparana.edu.br</a></p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2020/11/Farmacia.pdf\">Matriz Farmácia</a></p>\n  "
+        },
+        {
+          "title": "Corpo Docente",
+          "html": " <table>\n<tbody>\n<tr>\n<td>Aline Quadros Basilio</td>\n</tr>\n<tr>\n<td>Amanda Razera</td>\n</tr>\n<tr>\n<td>Elaine Ferreira</td>\n</tr>\n<tr>\n<td>Gabriela Dalberto</td>\n</tr>\n<tr>\n<td>Gabriela Denardi Cubiça</td>\n</tr>\n<tr>\n<td>Milena Tyssia de Souza Machado</td>\n</tr>\n<tr>\n<td>Patrícia Manente Melhem</td>\n</tr>\n<tr>\n<td>Rafael Fiamoncini Ferreira</td>\n</tr>\n<tr>\n<td>Rafael Martini Pedroso</td>\n</tr>\n<tr>\n<td>Rafaellen Caroline Storck</td>\n</tr>\n<tr>\n<td>Sandro Mazurechen</td>\n</tr>\n<tr>\n<td>Silmara Brietzig Hennrich</td>\n</tr>\n<tr>\n<td>Silvana Harumi Watanabe</td>\n</tr>\n<tr>\n<td>Tatiany Regina Samistraro</td>\n</tr>\n<tr>\n<td>Danieli Renzi</td>\n</tr>\n<tr>\n<td>Gonzalo Ogliari Dalforno</td>\n</tr>\n<tr>\n<td>Camila Nogueira Pacentchuk</td>\n</tr>\n<tr>\n<td>Adriana Horbacz</td>\n</tr>\n<tr>\n<td>Alessandra Niedziela</td>\n</tr>\n<tr>\n<td>Carine Muniz</td>\n</tr>\n<tr>\n<td>Cristiane Valus</td>\n</tr>\n<tr>\n<td>Dayane Hyeda</td>\n</tr>\n<tr>\n<td>Ingrid Camondá Pereira Bressani Mazur</td>\n</tr>\n<tr>\n<td>Libardone Jose Ribeiro Brustulim</td>\n</tr>\n<tr>\n<td>Luiz Antonio Fornazari Bini</td>\n</tr>\n<tr>\n<td>Matheus Gonçalves</td>\n</tr>\n<tr>\n<td>Cristhian Gabriel Santos Jardim</td>\n</tr>\n<tr>\n<td>Fabiano Ricardo da Silva</td>\n</tr>\n<tr>\n<td>Luciane Masieiro Crozetta</td>\n</tr>\n<tr>\n<td>Silvia da Silva Caetano Eisele</td>\n</tr>\n<tr>\n<td>Arnaldo Marcinko</td>\n</tr>\n<tr>\n<td>Daiane Amaral de Ramos Nogueira</td>\n</tr>\n<tr>\n<td>Elisangela Hadlich</td>\n</tr>\n<tr>\n<td>Ingrid Gustmann</td>\n</tr>\n<tr>\n<td>Isaac Pereira Cavalheiro</td>\n</tr>\n<tr>\n<td>Tiago Lorenzi Poluha</td>\n</tr>\n</tbody>\n</table>\n  "
+        },
+        {
+          "title": "Metodologia cursos smart UB",
+          "html": " <section>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Os Cursos Smart UB trabalham com um método de ensino dinâmico e inovador, mesclando a atuação do professor em sala de aula com a flexibilidade de metodologias inovadoras. Para isso, contamos com Professores Formadores em sala, de modo que os acadêmicos tenham encontros presenciais semanais para abordagem de conteúdo.</p>\n<p>&nbsp;</p>\n<p>Além disso, disponibilizamos um Ambiente Virtual de Aprendizagem que oferece materiais didáticos interativos, aplicando metodologias ativas e linguagem dialógica, contribuindo com o processo de formação do acadêmico.</p>\n<p>&nbsp;</p>\n<p>Tudo isso, permite com que o aluno participe ativamente da construção do conhecimento, promovendo flexibilidade, acessibilidade e autonomia no processo de formação. Todos os nossos professores são mestres ou doutores, profissionais de excelência atuantes no mercado. Além dos Professores Formadores, contamos com uma equipe de tutoria personalizada, composta de profissionais especializados por área de conhecimento, treinados e capacitados para oferecer atendimento pedagógico permanente aos alunos.</p>\n<p>&nbsp;</p>\n<p>Possuímos laboratórios físicos e virtuais de última geração, que possibilitam a realização de experiências realistas e sofisticadas, sobretudo, preparando um profissional planejador e disciplinado, apto as exigências do mercado de trabalho.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div></div>\n</section>\n  "
+        },
+        {
+          "title": "portaria",
+          "html": " <section>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>PORTARIA nº 83/2020 de 04/11/2020</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section>\n<div></div>\n</section>\n  "
+        }
+      ],
+      "smartContent": "<div><h2>As vantagens de fazer os cursos smart</h2><div>  <div><span></span><h3>Coligadas UB</h3><p>Uma parceria do Centro Universitário Campo Real e da UCP.</p></div>  <div><span></span><h3>O que são os cursos smart ub?</h3><p>São cursos de Ensino Superior com ênfase na Educação Digital, com aplicação de metodologias inovadoras. Os Cursos Smart UB estão alinhados às melhores e mais modernas práticas de inovações tecnológicas, com um currículo inovador e, principalmente, com professores com ampla experiência no mercado de trabalho.</p></div>  <div><span></span><h3>como serão as aulas?</h3><p>Haverá aulas presenciais todas as semanas, além disso, estamos cada vez mais investindo na Educação Digital e serão promovidas diversas atividades mediadas por tecnologias.</p></div>  <div><span></span><h3>e as atividades práticas em laboratório?</h3><p>Além das aulas presenciais com metodologias inovadoras, haverá experimentos em laboratórios e visitas técnicas. Serão construídos inúmeros laboratórios. E também haverá aulas práticas na sede da Faculdade UCP.</p></div>  <div><span></span><h3>e os professores?</h3><p>Todas as aulas, sejam presenciais ou remotas, serão ministradas pelos professores das Coligadas UB, que possuem vasta experiência nas áreas e com metodologias inovadoras. As aulas on-line terão acompanhamento de tutores.</p></div>  <div><span></span><h3>quais são os incentivos financeiros?</h3><p>Há vários incentivos financeiros para você começar a estudar já. O grande destaque é a Mensalidade Flex, em que você parcela seu curso, totalmente sem juros, com parcelas que cabem no seu bolso. E com o Amigo UCP você ganha 10% de desconto a cada amigo indicado que efetivar a matrícula e para a Segunda Graduação temos o incentivo de 30% de desconto na mensalidade.</p></div>  <div><span></span><h3>Afinal, o que são as coligadas UB?</h3><p>Fazem parte das Coligadas UB as seguintes instituições de ensino superior: Centro Universitário Autônomo do Brasil - UniBrasil (Curitiba, Centro Universitário Campo Real (Guarapuava), Centro Universitário Ugv (União da Vitória), Faculdades do Centro do Paraná - UCP (Pitanga) e Faculdades Integradas do Vale do Ivaí - Univale (Ivaiporã). Juntas, elas reuniram esforços e criaram os Cursos Smart UB.</p></div>  </div></div>",
+      "importedAt": "2026-10-16",
+      "imageAlt": "Fotografia ilustrativa da área de Farmácia",
+      "photoCredit": {
+        "provider": "Pexels",
+        "photoId": 13119976,
+        "illustrative": true
+      }
+    },
+    {
+      "url": "https://ucpparana.edu.br/?post_type=ead&p=34033",
+      "name": "Fisioterapia",
+      "sourceFile": "sources/course-12.html",
+      "mode": "Smart",
+      "slug": "fisioterapia",
+      "images": [],
+      "localImage": "assets/smart-fisioterapia.jpg",
+      "academic": {
+        "diploma": "Bacharelado",
+        "duration": "5 anos",
+        "period": "EAD"
+      },
+      "description": "<p><p>A graduação em Fisioterapia forma profissionais com habilidades de atuar na prevenção e reabilitação da capacidade física e funcional de pessoas. O fisioterapeuta aplica terapias para tratar doenças e lesões, empregando exercícios e massoterapia.</p>\n</p>",
+      "reasons": [
+        {
+          "title": "Por que fazer este curso?",
+          "html": " <p>Você tem interesse em proporcionar melhora na saúde e qualidade de vida das pessoas? O fisioterapeuta possui múltiplas possibilidades de atuação, em pacientes de diversas idades, nos mais variados contextos. Atuando em alterações cinético-funcionais, respiratórias, cardiovasculares, neurológicas e do trabalho.</p>\n "
+        },
+        {
+          "title": "O que vou fazer?",
+          "html": " <p>O fisioterapeuta atua na prevenção, diagnóstico, tratamento e reabilitação de disfunções em órgãos e sistemas.</p>\n "
+        },
+        {
+          "title": "Onde vou trabalhar?",
+          "html": " <p>No mercado de trabalho, o fisioterapeuta pode trabalhar em hospitais, consultórios, clínicas particulares, atendimentos domiciliares, asilos, clubes esportivos, empresas ou instituições de ensino e pesquisa.</p>\n "
+        }
+      ],
+      "infrastructure": [],
+      "teachers": [],
+      "prices": [
+        {
+          "value": "R$ 854,44*",
+          "condition": "*Pontualidade até dia 8 de cada mês - Valores vigentes para 2026"
+        },
+        {
+          "value": "R$ 982,12",
+          "condition": "Valor contratual"
+        }
+      ],
+      "documents": [
+        {
+          "title": "Coordenação e Assessoria",
+          "html": " <p><strong>Assessor</strong></p>\n<p>Paulo Ricardo Soethe</p>\n<p><strong>E-mail:</strong> fisioterapia@ucpparana.edu.br</p>\n  "
+        },
+        {
+          "title": "Matriz Curricular",
+          "html": " <p><a href=\"https://ucpparana.edu.br/content/uploads/2022/09/Fisioterapia.pdf\">Matriz Fisioterapia</a></p>\n  "
+        },
+        {
+          "title": "Metodologia Cursos Smart UB",
+          "html": " <p>Os Cursos Smart trabalham com um método de ensino dinâmico e inovador, mesclando a atuação do professor em sala de aula com a flexibilidade de metodologias inovadoras. Para isso, contamos com Professores Formadores em sala, de modo que os acadêmicos tenham encontros presenciais semanais para abordagem de conteúdo.</p>\n<p>&nbsp;</p>\n<p>Além disso, disponibilizamos um Ambiente Virtual de Aprendizagem que oferece materiais didáticos interativos, aplicando metodologias ativas e linguagem dialógica, contribuindo com o processo de formação do acadêmico.</p>\n<p>&nbsp;</p>\n<p>Tudo isso, permite com que o aluno participe ativamente da construção do conhecimento, promovendo flexibilidade, acessibilidade e autonomia no processo de formação. Todos os nossos professores são mestres ou doutores, profissionais de excelência atuantes no mercado. Além dos Professores Formadores, contamos com uma equipe de tutoria personalizada, composta de profissionais especializados por área de conhecimento, treinados e capacitados para oferecer atendimento pedagógico permanente aos alunos.</p>\n<p>&nbsp;</p>\n<p>Possuímos laboratórios físicos e virtuais de última geração, que possibilitam a realização de experiências realistas e sofisticadas, sobretudo, preparando um profissional planejador e disciplinado, apto as exigências do mercado de trabalho.</p>\n  "
+        }
+      ],
+      "smartContent": "<div><h2>As vantagens de fazer os cursos smart</h2><div>  <div><span></span><h3>Coligadas UB</h3><p>Uma parceria do Centro Universitário Campo Real e UCP.</p></div>  <div><span></span><h3>O que são os cursos Smart UB?</h3><p>São cursos de Ensino Superior com ênfase na Educação Digital, com aplicação de metodologias inovadoras. Os Cursos Smart UB estão alinhados às melhores e mais modernas práticas de inovações tecnológicas, com um currículo inovador e, principalmente, com professores com ampla experiência no mercado de trabalho.</p></div>  <div><span></span><h3>Como serão as aulas?</h3><p>Haverá aulas presenciais todas as semanas, além disso, estamos cada vez mais investindo na Educação Digital e serão promovidas diversas atividades mediadas por tecnologias.</p></div>  <div><span></span><h3>E as atividades práticas em laboratórios?</h3><p>Além das aulas presenciais com metodologias inovadoras, haverá experimentos em laboratórios e visitas técnicas. Serão construídos inúmeros laboratórios. E também haverá aulas práticas na sede da Faculdade UCP.</p></div>  <div><span></span><h3>E os professores?</h3><p>Todas as aulas, sejam presenciais ou remotas, serão ministradas pelos professores das Coligadas UB, que possuem vasta experiência nas áreas e com metodologias inovadoras. As aulas on-line terão acompanhamento de tutores.</p></div>  <div><span></span><h3>Quais são os incentivos financeiros?</h3><p>Há vários incentivos financeiros para você começar a estudar já. O grande destaque é a Mensalidade Flex, em que você parcela seu curso, totalmente sem juros, com parcelas que cabem no seu bolso. E com o Amigo UCP e você ganha 10% de desconto a cada amigo indicado que efetivar a matrícula e para a Segunda Graduação temos o incentivo de até 30% de desconto na mensalidade.</p></div>  <div><span></span><h3>Afinal, o que são as coligadas UB?</h3><p>Fazem parte das Coligadas UB as seguintes instituições de ensino superior: Centro Universitário Autônomo do Brasil - UniBrasil (Curitiba, Centro Universitário Campo Real (Guarapuava), Centro Universitário Ugv (União da Vitória), Faculdades do Centro do Paraná - UCP (Pitanga) e Faculdades Integradas do Vale do Ivaí - Univale (Ivaiporã). Juntas, elas reuniram esforços e criaram os Cursos Smart UB.</p></div>  </div></div>",
+      "importedAt": "2026-10-16",
+      "imageAlt": "Fotografia ilustrativa da área de Fisioterapia",
+      "photoCredit": {
+        "provider": "Pexels",
+        "photoId": 31234755,
+        "illustrative": true
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Periódico Poesias, Contos e Crônicas, com o tema “Pitanga pelos meus olhos!” - UCP Paraná",
+      "image": "https://ucpparana.edu.br/content/uploads/2026/09/Periodico-de-poesia-2026.png",
+      "url": "https://ucpparana.edu.br/?p=36999",
+      "localImage": "assets/news-0.png"
+    },
+    {
+      "title": "UCP abre Processo Seletivo para Monitoria Acadêmica 2026/2 - UCP Paraná",
+      "image": "https://ucpparana.edu.br/content/uploads/2026/07/Monitoria-Academica-UCP-2026.2-feed.png",
+      "url": "https://ucpparana.edu.br/?p=36289",
+      "localImage": "assets/news-1.png"
+    },
+    {
+      "title": "Submissão nas Revistas Eletrônicas Multidisciplinares – Trivium e Incorporium - UCP Paraná",
+      "image": "https://ucpparana.edu.br/content/uploads/2026/03/Revistas-Edital-Revista.png",
+      "url": "https://ucpparana.edu.br/?p=36347",
+      "localImage": "assets/news-2.png"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Eventos",
+    "source": "https://ucpparana.edu.br/eventos/",
+    "path": "/eventos.html",
+    "group": "eventos",
+    "index": true,
+    "html": "",
+    "hasForm": true,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Ouvidoria",
+    "source": "https://ucpparana.edu.br/contato/ouvidoria/",
+    "path": "/contato/ouvidoria.html",
+    "group": "contato",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/contato/coordenacao/\">Coordenação</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/direcao/\">Direção</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/ouvidoria/\">Ouvidoria</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/setores-2/\">Setores</a></li>  </ul>     <p>Na UCP há um órgão denominado ouvidoria que tem como objetivo dar apoio e atendimento à comunidade universitária e à sociedade civil. Visa à interlocução e a construção de um espaço para reclamações e denúncias, bem como para emissão de opiniões, garantindo o princípio da ética e da transparência nas relações.</p>\n<p>A Ouvidoria da UCP é pautada pelo sigilo, legalidade, impessoalidade, imparcialidade e autonomia. O atendimento na Ouvidoria pode ser feito pelo e-mail: <a href=\"mailto:ouvidoria@ucpparana.edu.br\">ouvidoria@ucpparana.edu.br</a>, por cartas nas urnas ou pessoalmente.</p>\n<p>&nbsp;</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Trivium",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/",
+    "path": "/revistasucp/trivium.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "  <a href=\"http://revista.ucpparana.edu.br/\"><h2>Acessar Revista</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/trivium/apresentacao/\"><h2>Apresentação</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/trivium/edicoes/\"><h2>Edições</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/\"><h2>Normas para publicação e Edital</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "v.1, n.1 – 2010",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/edicoes/v-1-n-1-2010/",
+    "path": "/revistasucp/trivium/edicoes/v-1-n-1-2010.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/content/uploads/2017/11/v.1-n.1-2010.pdf\">v.1, n.1 &#8211; 2010</a></li>  </ul>      <a href=\"https://ucpparana.edu.br/content/uploads/2017/11/v.1-n.1-2010.pdf\"></a>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Revistas UCP",
+    "source": "https://ucpparana.edu.br/revistasucp/",
+    "path": "/revistasucp.html",
+    "group": "revistasucp",
+    "index": true,
+    "html": "  <a href=\"https://ucpparana.edu.br/revistasucp/apresentacao/\"><h2>Apresentação</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/magna/\"><h2>Magna</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/trivium/\"><h2>Trivium</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/revistasucp/incorporium/\"><h2>INCORPORIUM</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Magna",
+    "source": "https://ucpparana.edu.br/revistasucp/magna/",
+    "path": "/revistasucp/magna.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "  <a href=\"https://ucpparana.edu.br/revistasucp/magna/edicoes/\"><h2>Edições</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Edições",
+    "source": "https://ucpparana.edu.br/revistasucp/magna/edicoes/",
+    "path": "/revistasucp/magna/edicoes.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/revistasucp/magna/edicoes/\">Edições</a></li>  </ul>     <p><a href=\"http://ucpparana.edu.br/content/uploads/2018/06/Revista-Magna-2016-v.1-n.2.pdf\">Revista Magna &#8211; 2016, v.1, n.2</a></p>\n<p>&nbsp;</p>\n<p><a href=\"http://ucpparana.edu.br/content/uploads/2018/06/Revista-Magna-2017-v.-1-n.-2.pdf\">Revista Magna &#8211; 2017, v. 1, n. 2</a></p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Logotipo",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/logotipo/",
+    "path": "/cpa-avaliacao/logotipo.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>     <p><a href=\"http://ucpparana.edu.br/content/uploads/2019/04/CPA.png\"><img src=\"http://ucpparana.edu.br/content/uploads/2019/04/CPA-300x210.png\" alt=\"\" loading=\"lazy\"></a></p>\n<p>&nbsp;</p>\n<p>O logotipo da Comissão Própria de Avaliação é representado por imagens ilustrativas de pessoas que simbolizam a estrutura da Instituição e os grupos ligados a ela – corpo docente e discente, funcionários e sociedade civil organizada. A disposição dos símbolos, assim como a variação de suas cores, passa o conceito de evolução-resultado atingido com o trabalho da CPA, a melhoria da qualidade dos serviços prestados pela Instituição.</p>\n\n<p>Foram escolhidas cores quentes para demonstrar contato e calor humano.</p>\n<p>O <em>lettering</em> foi definido visando algo jovem, porém forte, buscando a sensação de evolução constante.</p>\n\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Extensão UCP",
+    "source": "https://ucpparana.edu.br/extensao-ucp/",
+    "path": "/extensao-ucp.html",
+    "group": "extensao-ucp",
+    "index": true,
+    "html": "  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-social/\"><h2>UCP Social</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/\"><h2>UCP Verde</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/\"><h2>UCP Cultura e Arte</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Poesias, Contos e Crônicas",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/\"><h2>Normas</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/\"><h2>Apresentação</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/\"><h2>Volumes</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/\"><h2>Expediente</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "UCP Cultura e Arte",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/atividades-de-extensao-ucp-social-2/\"><h2>Atividades de Extensão &#8211; UCP Cultura e Arte</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/\"><h2>Poesias, Contos e Crônicas</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "UCP Verde",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-verde/",
+    "path": "/extensao-ucp/ucp-verde.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/relatorio/\"><h2>Relatório</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/atividades-de-extensao-ucp-verde/\"><h2>Atividades de Extensão &#8211; UCP Verde</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "UCP Social",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-social/",
+    "path": "/extensao-ucp/ucp-social.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "  <a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-social/atividades-de-extensao-ucp-social/\"><h2>Atividades de Extensão &#8211; UCP Social</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Apresentação",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": " <p>Poesias, Contos e Crônicas</p>\n    <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/\">Expediente</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/\">Normas</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/\">Volumes</a></li>  </ul>     <p><strong>Poesias, Contos e Crônicas</strong></p>\n<p>“Poesias, contos e crônicas” é a um periódico anual da Faculdade de Ensino Superior do Centro do Paraná (UCP) e tem como objetivo publicar produções literárias, tanto do público acadêmico interno, quanto da comunidade externa. Os trabalhos versam sobre temáticas que variam a cada volume.</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Contato",
+    "source": "https://ucpparana.edu.br/contato/",
+    "path": "/contato.html",
+    "group": "contato",
+    "index": true,
+    "html": "  <p><a href=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.9868322679686!2d-51.785935084368504!3d-24.76164061289331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ee9146c7d92471%3A0x5df32aac65faf107!2sUCP+-+Faculdades+do+Centro+do+Paran%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1556309708714!5m2!1spt-BR!2sbr\">Abrir serviço externo ↗</a></p><a href=\"https://www.waze.com/ul?ll=-24.761645%2C-51.783746&amp;navigate=yes&amp;zoom=17\"><i></i><strong>Ver no Waze</strong></a> ",
+    "hasForm": true,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Acessar Revista",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/acessar-revista/",
+    "path": "/revistasucp/trivium/acessar-revista.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"http://revista.ucpparana.edu.br/\">Acessar Revista</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/edicoes/\">Edições</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/\">Normas para publicação e Edital</a></li>  </ul>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Legislação",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/legislacao/",
+    "path": "/cpa-avaliacao/legislacao.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>     Dimensões de Avaliação segundo o SINAES\n\n\n\n<p>A lei do Sinaes prevê 10 dimensões que tem a finalidade contemplar a Instituição de Ensino Superior como um todo. Em 2014 estas dimensões foram reorganizadas em 5 eixos avaliativos. Que são:</p>\n\n\n<p><strong>Eixo 1: Planejamento e Avaliação Institucional</strong></p>\n<p><strong><em>Dimensão 8:</em></strong> Planejamento e Avaliação</p>\n<p><strong>Eixo 2: Desenvolvimento Institucional</strong></p>\n<p><strong> <em>Dimensão 1:</em></strong> Missão e Plano de Desenvolvimento Institucional</p>\n<p><strong> <em>Dimensão 3:</em></strong> Responsabilidade Social da Instituição</p>\n<p><strong>Eixo 3: Políticas Acadêmicas</strong></p>\n<p><strong><em>Dimensão 2:</em></strong> Políticas para o Ensino, a Pesquisa e a Extensão</p>\n<p><strong><em>Dimensão 4:</em></strong> Comunicação com a Sociedade</p>\n<p><strong> <em>Dimensão 9:</em></strong> Política de Atendimento aos Discentes</p>\n<p><strong>Eixo 4: Políticas de Gestão</strong></p>\n<p><strong> <em>Dimensão 5:</em></strong> Políticas de Pessoal</p>\n<p><strong><em>Dimensão 6:</em> </strong>Organização e Gestão da Instituição</p>\n<p><strong><em>Dimensão 10:</em></strong> Sustentabilidade Financeira</p>\n<p><strong>Eixo 5: Infraestrutura Física</strong></p>\n<p><strong> <em>Dimensão 7:</em></strong> Infraestrutura Física</p>\n\n<p>&nbsp;</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Atividades de Extensão – UCP Social",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-social/atividades-de-extensao-ucp-social/",
+    "path": "/extensao-ucp/ucp-social/atividades-de-extensao-ucp-social.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-social/atividades-de-extensao-ucp-social/\">Atividades de Extensão &#8211; UCP Social</a></li>  </ul>     Projeto Naninhas do Bem\n\nProjeto Octo UCP\n\nProjeto Espaço Leitura\n\nCampanha de arrecadação de alimentos &#8211; Festa do Calouro\n\n\nPáscoa Solidária\n\nCampanha de Doação de Cobertores\n\n\n\n\n\nCampanha de Doação de Ração Animal\n\n\n\n\nCampanha do Dia das Crianças \n\n\n<i>Trash Challenge </i>\n\n\n\nCampanha de Arrecadação de Artigos de Higiene para Hospital São Vicente de Paula  \n\nCampanha Natal Iluminado\n\n\n\n\n\nProjeto UCP na Comunidade\n\nGrupo de Estudos &#8216;Cultura da Paz, Direitos Humanos e Sustentabilidade&#8217;\n\n\nI Seminário Regional em Direitos Humanos &#8211; A cultura da paz e a mediação de conflitos em ambiente escolar \n\n\n\nMostra Científica de Direitos Humanos\n\nAulão do ENEM\n\n\n\nSimpósio Regional de Desenvolvimento Agropecuário da Região Central do Paraná\n\n\n\n\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Metodologia",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/metodologia/",
+    "path": "/cpa-avaliacao/metodologia.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>     <p>Em cumprimento do disposto na Lei nº 10.861, de 14 de abril de 2004, a autoavaliação foi implantada na Faculdade UCP e está organizada de forma a contemplar todos os eixos e as dimensões estabelecidas pelo SINAES. A CPA é regida por regulamento próprio de funcionamento, devidamente institucionalizado, e um programa específico de atuação retroalimentado a partir dos resultados produzidos. A comissão, composta por representantes da comunidade acadêmica, corpo técnico-administrativo e da sociedade civil, foi designada com fins a planejar, organizar e conduzir o processo de avaliação (através de ato administrativo de nomeação). Conta com o apoio e suporte das Coordenações da Instituição e com disponibilização de espaço próprio para reuniões, na oferta de materiais de sensibilização/engajamento e demais necessidades estruturais assim como acesso pleno a informações e dados necessários para operacionalização das ações. A CPA é a responsável pela avaliação permanente, realizada semestralmente, que avalia, além do desempenho do corpo docente, a atuação das coordenações, as condições estruturais, instalações, serviços e pessoal técnico de apoio, condições de ensino, envolvimento da IES com a comunidade, cumprimento do regimento, das propostas PDI, PPI e PPC. A CPA, ao longo de todo o processo, busca a interpretação dos dados coletados, a consulta de documentos pertinentes que subsidiam as análises, e a elaboração de novos documentos/relatórios que forneçam informações complementares às análises, interpretações e deliberações. Entre os relatórios complementares elaborados, propostos e aplicados pela CPA, destacam-se: Perfil do Ingresso, Acompanhamento do Egresso, Pesquisa de Permanência, Pesquisa de Opinião Pública, Pesquisas de Desempenho no ENADE, Exame de Ordem, de desempenho em simulados institucionais, de participação em evento de iniciação científica, entre outros. Em linhas gerais, as análises e considerações apresentadas pelos processos de avaliação institucional são importante objeto de gestão, de suporte para o relato institucional, e para cumprimento dos objetivos e metas previstas no PDI. Os problemas revelados nas análises efetuadas nos resultados dos processos de autoavaliação institucional, demonstram-se, na maioria das vezes, operacionais e de infraestrutura, enquanto que as potencialidades se concentram em aspectos essenciais da vida acadêmica, como a qualidade do corpo docente, do ensino, dos serviços e do atendimento da IES. Ao finalizar cada ciclo de avaliações, são mapeadas as potencialidades e fragilidades apontadas pela comunidade acadêmica, bem como, pelos resultados das avaliações externas, e discutidas ações a serem implantadas/fortalecidas para a melhoria institucional. Ações acadêmico-administrativas de processos de gestão, em razão dos resultados demonstram a evolução da IES como um todo. Sobre a divulgação do processo de autoavaliação, todo processo é realizado e divulgado, conforme cronograma traçado pela CPA, previsto no Calendário Acadêmico. Baseado nesses indicadores a CPA estabelece suas principais atividades, traçando um conjunto de iniciativas. A divulgação dos resultados é pública, para tanto é elaborado um perfil institucional que fica à disposição do público no site da instituição. O informativo dos resultados da autoavaliação institucional mostra-se também meio de efetiva participação da comunidade acadêmica, pois é elaborado com sugestões dos alunos representantes de turma, com imagens representativas (fotos), textos com depoimentos dos alunos, dos egressos, dos professores, sobre o processo, sobre as deliberações, sobre a instituição como um todo. O conjunto de informações obtido, após trabalho de análise e interpretação, permite compor uma visão diagnóstica das dimensões avaliadas na instituição, identificando possíveis causas de problemas, bem como, caminhos para superá-los.</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Atividades de Extensão – UCP Verde",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-verde/atividades-de-extensao-ucp-verde/",
+    "path": "/extensao-ucp/ucp-verde/atividades-de-extensao-ucp-verde.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/atividades-de-extensao-ucp-verde/\">Atividades de Extensão &#8211; UCP Verde</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/relatorio/\">Relatório</a></li>  </ul>     Curso de Taxidermia\n\nExposições de Taxidermia\n\nSemana Ambiental\n\nMostra científica\n\nCampanhas/Espaços de coleta para reciclagem: E-lixo (materiais eletrônicos); Medicamentos; Pilhas e Baterias; Blisters de medicamentos; Óleo Vegetal\n\n<i>Trash Challenge</i>\n\nLixeiras para descarte: Erva-mate; Orgânicos / Plástico / Papel / vidro\n\nSimpósio das Agrárias\n\nSimpósio Regional de Desenvolvimento Agropecuário da Região Central do Paraná\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Atividades de Extensão – UCP Cultura e Arte",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/atividades-de-extensao-ucp-social-2/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/atividades-de-extensao-ucp-social-2.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/atividades-de-extensao-ucp-social-2/\">Atividades de Extensão &#8211; UCP Cultura e Arte</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/\">Poesias, Contos e Crônicas</a></li>  </ul>     Periódico &#8216;Poesias, Contos e Crônicas&#8217;\n\nExposições de Arte &#8211; Pintura\n\nMostras de Dança\n\nApresentações Musicais: Recepção dos Acadêmicos Ingressantes; Abertura Oficial da Semana Pedagógica / Jantar de Encerramento; Coral Municipal &#8211; Dezembro;\n\nApresentações Cênicas\n\nFesta à Fantasia\n\nFesta Junina\n\nGincana da Integração\n\nProjeto Palco Livre\n\nProjeto Espaço Leitura\n\nViagens técnicas\n\nDesfile Cívico\n\nMostra de Taxidermia &#8211; Animais nativos da região\n\nConfraternização / Jogos das Coligadas UB\n\nConcurso &#8216;Mascote UCP&#8217;\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Pós Graduação É na UCP",
+    "source": "https://ucpparana.edu.br/pos-graduacao/",
+    "path": "/pos-graduacao.html",
+    "group": "pos-graduacao",
+    "index": true,
+    "html": "<p><p>Os cursos de pós-graduação são destinados aos profissionais que buscam novos conhecimentos, sempre aproximando teoria e prática. O corpo docente é selecionado de forma a garantir que o profissional tenha contato com conhecimento científico e técnico, aliados aos anos de experiências dos professores no mercado. É a qualificação que você procura, com a excelência que você merece!</p>\n</p>",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Expediente",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": " <p>Poesias, Contos e Crônicas</p>\n    <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/\">Expediente</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/\">Normas</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/\">Volumes</a></li>  </ul>     <p><strong>Diretora Geral da Faculdade de Ensino Superior do Centro do Paraná &#8211; UCP</strong></p>\n<p>Jane Silva Bührer Taques</p>\n<p>&nbsp;</p>\n<p><strong>Corpo Editorial</strong></p>\n<p><strong>Organização</strong><br>\nJane Silva Bührer Taques</p>\n<p><strong>Colaborador</strong><br>\nJosé Altevir Mereth Barbosa da Cunha</p>\n<p><strong>Revisão</strong><br>\nNeusa Moro</p>\n<p><strong>Diagramação</strong><br>\nTrajano Santos Filho</p>\n<p><strong>Capa</strong><br>\nJefferson Silvestre Alberti dos Santos<br>\nSetor de Marketing da Faculdade de Ensino Superior do Centro do Paraná (UCP)</p>\n<p><strong>Endereço para correspondência:</strong><br>\nAv. Universitária, km 0,5 Linha Cantu.<br>\nCEP 85200-000 – Pitanga, PR &#8211; Brasil<br>\nTelefone: (42) 3646-5555<br>\nSite: www.ucpparana.edu.br</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Normas",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": " <p>Poesias, Contos e Crônicas</p>\n    <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/\">Expediente</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/\">Normas</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/\">Volumes</a></li>  </ul>     <p><a href=\"http://ucpparana.edu.br/content/uploads/2019/06/EDITAL-I-CONCURSO-DE-POESIAS-CONTOS-E-CR%C3%94NICAS-1.pdf\">Edital nº 47.2019 &#8211; I Concurso de Poesias, Contos e Crônicas</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/10/Edital-139.2019-Divulga-Edital-de-abertura-de-submiss%C3%B5es-para-publica%C3%A7%C3%A3o-no-peri%C3%B3dico-Poesias-Contos-e-Cr%C3%B4nicas.pdf\">Edital nº 139.2019 – Divulga Edital de abertura de submissões para publicação no periódico Poesias, Contos e Crônicas</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2020/06/Edital-n%C2%BA-39.2020-Divulga-abertura-de-submiss%C3%B5es-para-publica%C3%A7%C3%A3o-no-peri%C3%B3dico-Poesias-Contos-e-Cr%C3%B4nicas-Cultura-de-Paz.pdf\">Edital nº 39.2020 &#8211; Divulga abertura de submissões para publicação no periódico Poesias, Contos e Crônicas Cultura de Paz</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2020/08/Edital-n%C2%BA-51.2020-Divulga-Edital-de-abertura-de-submiss%C3%B5es-para-publica%C3%A7%C3%A3o-no-peri%C3%B3dico-Poesias-Contos-e-Cr%C3%B4nicas.pdf\">Edital nº 51.2020 – Divulga Edital de abertura de submissões para publicação no periódico Poesias, Contos e Crônicas</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2020/08/Edital-n%C2%BA-51.2020-ANEXO-I-Ficha-de-Identifica%C3%A7%C3%A3o-POESIAS-CONTOS-E-CR%C3%94NICAS-DIREITOS-HUMANOS.doc\">Edital nº 51.2020 – ANEXO I – Ficha de Identificação POESIAS, CONTOS E CRÔNICAS DIREITOS HUMANOS</a></p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Relatório",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-verde/relatorio/",
+    "path": "/extensao-ucp/ucp-verde/relatorio.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/atividades-de-extensao-ucp-verde/\">Atividades de Extensão &#8211; UCP Verde</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-verde/relatorio/\">Relatório</a></li>  </ul>     <p><a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Relatorio-UCP-Verde-2020.pdf\">Relatório UCP Verde 2020</a></p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Introdução",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/introducao/",
+    "path": "/cpa-avaliacao/introducao.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>    <h2>Introdução</h2>   <p>A <strong>Comissão Própria de Avaliação </strong>(CPA) é um órgão de atuação autônoma em relação aos conselhos e demais órgãos colegiados existentes na instituição de ensino superior, tem por princípio e finalidade contribuir para a melhoria contínua da instituição em todos os seus aspectos, a partir de processos avaliativos da infraestrutura e do ensino.</p>\n<p>&nbsp;</p>\n<p><strong>O que é avaliado?</strong></p>\n<p>&nbsp;</p>\n<p>O objetivo da avaliação é a análise das múltiplas dimensões, relações, atividades, funções e demais mecanismos que compõem a UCP, visando a melhoria na infraestrutura e no ensino-aprendizagem.</p>\n<p>&nbsp;</p>\n<p><strong>Quem participa da avaliação?</strong></p>\n<p>&nbsp;</p>\n<p>Discentes, docentes e colaboradores participam do processo avaliativo, apresentando a sua opinião sobre a estrutura física e educacional da UCP.</p>\n<p>&nbsp;</p>\n<p><strong>Qual a importância da participação na autoavaliação institucional?</strong></p>\n<p>&nbsp;</p>\n<p>Ao participar da autoavaliação institucional você colabora com o crescimento da UCP, gerando possibilidades de melhorias.</p>\n<p>&nbsp;</p>\n<p><strong>Como acontece a avaliação?</strong></p>\n<p>&nbsp;</p>\n<p>A autoavaliação é realizada através de um questionário disponibilizado no site da UCP, em cada semestre letivo, conforme se apresenta no calendário acadêmico. Para participar, basta acessar a plataforma, quando esta for disponibilizada, entrar com seu login e senha (os quais serão repassados a cada acadêmico).</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Apresentação",
+    "source": "https://ucpparana.edu.br/revistasucp/apresentacao/",
+    "path": "/revistasucp/apresentacao.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/revistasucp/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/incorporium/\">INCORPORIUM</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/magna/\">Magna</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/\">Trivium</a></li>  </ul>     <p><strong>Apresentação</strong></p>\n<p>As Revistas de Publicação Acadêmico-Científica da Faculdade de Ensino Superior do Centro do Paraná, em sua totalidade, visam o desenvolvimento acadêmico, científico, extensionista e de consolidação dos processos realizados por docentes, discentes e comunidade externa, desde que filiados à uma instituição de ensino ou de pesquisa, ao que tange a divulgação e ampliação dos resultados obtidos em pesquisas e demais estudos.</p>\n<p>&nbsp;</p>\n<p><strong>Regulamento</strong></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2021/06/REGULAMENTO-INTERNO-PARA-PUBLICACAO-NA-REVISTAS-ACADEMICAS-1.pdf\">REGULAMENTO INTERNO PARA PUBLICAÇÃO NA REVISTAS ACADÊMICAS</a></p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Coordenação",
+    "source": "https://ucpparana.edu.br/contato/coordenacao/",
+    "path": "/contato/coordenacao.html",
+    "group": "contato",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/contato/coordenacao/\">Coordenação</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/direcao/\">Direção</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/ouvidoria/\">Ouvidoria</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/setores-2/\">Setores</a></li>  </ul>    <h2>Administração</h2>   <h4>Jefferson Silvestre Alberti</h4>\n<p>administracao@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n\n<p><a href=\"http://lattes.cnpq.br/2007467665341775\">Acesse o currículo lattes</a></p>\n\n   <h2>Direito</h2>   <h4>Tatiani Maria Garcia de Almeida</h4>\n<p>direito@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p><a href=\"http://lattes.cnpq.br/3965650799043949\">Acesse o currículo lattes</a></p>\n   <h2>Educação Física Bacharelado</h2>   <h4>Paulo Ricardo Soethe</h4>\n<p>educacaofisica@ucpparana.edu.br</p>\n\n<p>&nbsp;</p>\n<p><a href=\"http://lattes.cnpq.br/2208029983347210\">Acesse o currículo lattes</a></p>\n\n   <h2>Educação Física Licenciatura</h2>   <h4>Paulo Ricardo Soethe</h4>\n<p>educacaofisica@ucpparana.edu.br</p>\n\n<p>&nbsp;</p>\n<p><a href=\"http://lattes.cnpq.br/2208029983347210\">Acesse o currículo lattes</a></p>\n\n   <h2>Engenharia Agronômica</h2>   <h4>Andricia Verlindo</h4>\n<p>engenhariaagronomica@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p><a href=\"http://lattes.cnpq.br/5282595692777585\">Acesse o currículo Lattes</a></p>\n   <h2>Medicina Veterinária</h2>   <h4>Bruna Rayet Ayub</h4>\n<p>medicinaveterinaria@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n<p><a href=\"http://lattes.cnpq.br/9291944413772228\">Acesse o currículo Lattes</a></p>\n   <h2>Pedagogia</h2>   <h4>Elma Kovalim</h4>\n<p>pedagogia@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n\n<p>Acesse o currículo lattes</p>\n\n\n<p>&nbsp;</p>\n\n   <h2>Coordenação de Pós-Graduação, Iniciação e Extensão</h2>   <h4>Atílio Augustinho Matozzo</h4>\n<p>coordenacao@ucpparana.edu.br</p>\n<p>&nbsp;</p>\n\n<p>Acesse o currículo lattes</p>\n\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Direção",
+    "source": "https://ucpparana.edu.br/contato/direcao/",
+    "path": "/contato/direcao.html",
+    "group": "contato",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/contato/coordenacao/\">Coordenação</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/direcao/\">Direção</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/ouvidoria/\">Ouvidoria</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/setores-2/\">Setores</a></li>  </ul>    <h2>Professora Jane Silva Bührer Taques</h2>   <p><img src=\"https://ucpparana.edu.br/content/uploads/2015/12/servletrecuperafoto.gif.jpg\" alt=\"servletrecuperafoto.gif\" loading=\"lazy\"></p>\n<p>Graduada em Direito pela Faculdade de Direito de São Carlos.Especialista em Direito Civil e Processo Civil, em Recursos Humanos, em Docência no Ensino Superior e em Gestão Administrativa e Financeira. Mestre em Desenvolvimento Regional pela UNC. Doutoranda em Educação no Programa de Pós-graduação Stricto Sensu da Universidade Tuiuti do Paraná. Diretora Geral e Docente na Faculdade de Ensino Superior do Centro do Paraná &#8211; UCP e nas Faculdades Integradas do Vale do Ivaí -UCP UNIVALE. Membro do Banco Nacional de Itens &#8211; BNI &#8211; do ENADE 2012, ENADE 2015 e ENADE 2018 do Curso de Direito, Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira &#8211; INEP. Membro do Banco de Avaliadores do Sistema Nacional de Avaliação da Educação Superior- BASis, conforme Portaria nº 325 de 30 de abril de 2018, publicada no D.O.U. em 03 de maio de 2018.</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "CPA – comissão própria de avaliação",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/",
+    "path": "/cpa-avaliacao.html",
+    "group": "cpa-avaliacao",
+    "index": true,
+    "html": "  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\"><h2>Informativos CPA</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\"><h2>Logotipo</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\"><h2>Metodologia</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\"><h2>Legislação</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\"><h2>Composição</h2><strong>LEIA MAIS</strong></a>  <a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\"><h2>Introdução</h2><strong>LEIA MAIS</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Setores",
+    "source": "https://ucpparana.edu.br/contato/setores-2/",
+    "path": "/contato/setores-2.html",
+    "group": "contato",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/contato/coordenacao/\">Coordenação</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/direcao/\">Direção</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/ouvidoria/\">Ouvidoria</a></li>  <li><a href=\"https://ucpparana.edu.br/contato/setores-2/\">Setores</a></li>  </ul>    <h2>Secretaria</h2>   <p><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/attach_document.png\" alt=\"attach_document\" loading=\"lazy\"><br>\nA Secretaria Geral é responsável pelas atividades referentes ao registro e controle acadêmico. Neste caso, os processos de solicitação e tramitação de documentos acadêmicos devem ser protocolados na Secretaria Geral e obedecem algumas normas que devem ser observadas pelo aluno.</p>\n<p>Serviços oferecidos:</p>\n<p>Efetuar matrícula nos cursos de Graduação. Fazer requisição de documentos acadêmicos (histórico escolar, declarações, cópias de programas, entre outros). Aproveitamento de estudos; trancamento de matrícula; resolver qualquer pendência em relação à situação acadêmica.</p>\n<p><strong>Responsável</strong><br>\nInez Maria Stasiak</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:secretaria@ucpparana.edu.br\">secretaria@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 08h às 12h<br>\ndas 13h às 22h40min</p>\n   <h2>Financeiro</h2>   <p><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/calculator2.png\" alt=\"calculator2\" loading=\"lazy\"></p>\n<p>Recebimento de mensalidades. Recebimento de taxas diversas. Informações financeiras relacionadas à situação do acadêmico.</p>\n<p><strong>Responsável</strong><br>\nLucielí Oniczko</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:financeiro@ucpparana.edu.br\">financeiro@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 13h às 17h<br>\ndas 18h40 às 22h40min</p>\n   <h2>Marketing</h2>   <p><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/users.png\" alt=\"users\" loading=\"lazy\"></p>\n<p><strong>Responsável</strong><br>\nJefferson Silvestre Alberti dos Santos</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:mkt@ucpparana.edu.br\">mkt@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 13h às 17h<br>\ndas 18h40 às 22h40min</p>\n   <h2>Biblioteca</h2>   <p><strong><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/package.png\" alt=\"package\" loading=\"lazy\"></strong></p>\n<p><strong>Responsável</strong><br>\nDiogo Francisco Antunes</p>\n<p>CRB 202214/P</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:biblioteca@ucpparana.edu.br\">biblioteca@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 13h às 17h<br>\ndas 18h40 às 22h40min</p>\n   <h2>Recursos Humanos</h2>   <p><a href=\"https://ucpparana.edu.br/content/uploads/2016/02/rh.jpg\"><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/rh.jpg\" alt=\"rh\" loading=\"lazy\"></a></p>\n<p><strong>Responsável</strong><br>\nWeslei Fernando Pereira</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:rh@ucpparana.edu.br\">rh@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 13h às 17h<br>\ndas 18h40 às 22h40min</p>\n   <h2>NTI - Núcleo de Tecnologia da Informação</h2>   <p>&nbsp;</p>\n<p><strong><a href=\"https://ucpparana.edu.br/content/uploads/2016/02/nti-2.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2016/02/nti-2.png\" alt=\"nti-2\" loading=\"lazy\"></a></strong></p>\n<p><strong>Responsável</strong><br>\nAndrei Alves Albuquerque dos Santos</p>\n<p><strong>Dados para contato</strong><br>\n<a href=\"mailto:marketing@ucpparana.edu.br\">ti@ucpparana.edu.br</a><br>\n(42) 3646-5555</p>\n<p><strong>Horário de atendimento</strong><br>\nSegunda à sexta-feira<br>\ndas 13h às 17h<br>\ndas 18h40 às 22h40min</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "ALCP – Academia de Letras do Centro do Paraná",
+    "source": "https://ucpparana.edu.br/alcp/",
+    "path": "/alcp.html",
+    "group": "alcp",
+    "index": true,
+    "html": "  <a href=\"https://online.fliphtml5.com/azesj/zbgz/\"><h2>Antologia ALCP - 1º Ano</h2><strong>Clique aqui e leia a Antologia Completa!</strong></a>  <a href=\"https://ucpparana.edu.br/content/uploads/2023/11/EBOOK-ACADEMIAS-DE-LETRAS-DO-PARANA.pdf\"><h2>Associação das Academias de Letras, Ciências e Artes do Paraná e suas afiliadas - História e Memória - Vol.1</h2><strong>ACESSAR</strong></a>   ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Normas para publicação e Edital",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/",
+    "path": "/revistasucp/trivium/normas-para-publicacao.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"http://revista.ucpparana.edu.br/\">Acessar Revista</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/edicoes/\">Edições</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/\">Normas para publicação e Edital</a></li>  </ul>    <h2>NORMAS PARA PUBLICAÇÃO E EDITAL</h2>   <ul>\n<li>Os trabalhos devem ser apresentados em <em>word for windows, </em>em A4 (297 x 210mm), numa única face e em espaçamento 1,5 justificado, com margens à esquerda de 3cm e à direita de 2 cm, margem superior de 3 cm e inferior de 2</li>\n<li>Devem ser digitados em fonte <em>Times New Roman</em>, tamanho 12 (doze). As páginas não devem ser numeradas;</li>\n<li>Na primeira página do trabalho devem constar:</li>\n</ul>\n<ol>\n<li>Título do artigo/trabalho e subtítulo (apresentar na língua do texto, em caixa alta, <em>Times New Roman </em>12, negrito e centralizado).</li>\n<li>Dados sobre o(s) autor(es):</li>\n</ol>\n<ul>\n<li>Nome do autor(s) em fonte <em>Times New Roman </em>12, colocado à direita, sem negrito;</li>\n<li>O nome do orientador e/ou (co)autor deve vir</li>\n<li>A instituição de ensino/vínculo deve ser indicada logo abaixo dos nomes dos autores, em linhas distintas.</li>\n<li>Em nota de rodapé, título universitário (mestre, doutor, mestrando, doutorando, graduando, estudante de especialização) e e-mail.</li>\n</ul>\n<ol>\n<li>O resumo deve conter de 150 a 300 palavras, sendo apresentado em português e em inglês impreterivelmente.</li>\n<li>Palavras-chave em língua portuguesa e língua inglesa, no mínimo 3 (três) e no máximo 5 (cinco), separadas por ponto.</li>\n</ol>\n<ul>\n<li>O trabalho deverá conter no mínimo 6 (seis) páginas e no máximo 14 (quatorze) páginas;</li>\n<li>Tabelas, quadros, planilhas, imagens, deverão estar no corpo do texto,      seguindo sempre as normas técnicas da ABNT;</li>\n<li>Os critérios de seleção dos artigos e trabalhos para publicação serão:</li>\n</ul>\n<ol>\n<li>Adequação dos textos às normas de publicação;</li>\n<li>Titulação dos autores (Doutores, Mestres, Especialistas ou Graduados);</li>\n<li>Relevância científica e teórica do texto;</li>\n<li>Texto com revisão ortográfica-gramatical;</li>\n<li>Textos com pesquisas e fontes relevantes à produção acadêmico-científica que não desrespeite autores, pesquisadores e os direitos humanos e dos animais de forma</li>\n<li>Artigo ou trabalho submetido por aluno(a) de graduação e pós-graduação (Especialização, Mestrado e/ou Doutorado), sugere-se que seja submetido em coautoria com o(a) Orientador(a).</li>\n</ol>\n<ul>\n<li>A Revista receberá para publicação textos redigidos em Português, Espanhol ou Inglês, que não refletem obrigatoriamente a opinião dos Editores, Conselho Editorial e/ou Conselho Consultivo, sendo de inteira responsabilidade dos autores;</li>\n</ul>\n<p>&nbsp;</p>\n<h2>Edital 2026</h2>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2026/03/Edital-no-007.2026-Divulga-abertura-das-inscricoes-para-submissao-de-artigos-academicos-cientificos-1.pdf\">Edital nº 007.2026 &#8211; Divulga abertura das inscrições para submissão de artigos acadêmicos-científicos</a></p>\n\n<p>&nbsp;</p>\n<h2>OBSERVAÇÕES GERAIS</h2>\n<p>Qualquer outra informação quanto as características dos trabalhos submetidos, deverão seguir o Manual de Normas Técnicas da Faculdade UCP, disponível no site ucpparana.edu.br, na guia <em>Biblioteca</em>.</p>\n<p>Outras informações poderão ser requisitadas pelos seguintes contatos: tel. (42) 3646-5555; e-mail: trivium@ucpparana.edu.br.</p>\n<p>Atenciosamente,</p>\n<p>Conselho Editorial</p>\n<p>&nbsp;</p>\n<h2>Política de Privacidade</h2>\n<p>Os nomes e endereços informados nesta revista serão usados exclusivamente para os serviços prestados por esta publicação, não sendo disponibilizados para outras finalidades ou a terceiros.</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Volumes",
+    "source": "https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/",
+    "path": "/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes.html",
+    "group": "extensao-ucp",
+    "index": false,
+    "html": " <p>Poesias, Contos e Crônicas</p>\n    <ul>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/expediente/\">Expediente</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/normas/\">Normas</a></li>  <li><a href=\"https://ucpparana.edu.br/extensao-ucp/ucp-cultura-e-arte/poesias-contos-e-cronicas/volumes/\">Volumes</a></li>  </ul>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/08/Poesia-Contos-e-Cr%C3%B4nicas-vol.1.pdf\">Livro de Poesias, Contos e Crônicas - Pitanga, berço meu - V.1, 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/08/Poesia-Contos-e-Cr%C3%B4nicas-vol.2.pdf\">Livro de Poesias, Contos e Crônicas - Direitos Humanos - V.2, 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/08/Poesias-Contos-e-Cr%C3%B4nicas-Cultura-de-Paz.pdf\">Livro de Poesias, Contos e Crônicas - Cultura de Paz - V.3, 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/12/POESIAS-CRONICAS-E-CONTOS-VOLUME-4-2020.pdf\">Livro de Poesias, Contos e Crônicas - Direitos Humanos - V.4, 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/08/PERIODICO-2.pdf\">Livro de Poesias, Contos e Crônicas - Perspectivas da Minha Terra - V.5, 2021</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2022/11/LIVRO-DE-POESIAS-CONTOS-E-CRONICAS-DIREITOS-HUMANOS-V.6-2022-2.pdf\">LIVRO DE POESIAS, CONTOS E CRÔNICAS - DIREITOS HUMANOS - V.6, 2022</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/05/VII-Periodico-Poesia-Contos-e-Cronicas-2025.pdf\">LIVRO DE POESIAS, CONTOS E CRÔNICAS - V.7, 2025</a>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Apresentação",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/apresentacao/",
+    "path": "/revistasucp/trivium/apresentacao.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"http://revista.ucpparana.edu.br/\">Acessar Revista</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/edicoes/\">Edições</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/\">Normas para publicação e Edital</a></li>  </ul>    <h2>REVISTA TRIVIUM</h2>   <p><strong>Revista Eletrônica Multidisciplinar</strong><br>\nISSN 2179-5169</p>\n<p>&nbsp;</p>\n<p>Trivium é uma publicação anual da Faculdade do Centro do Paraná &#8211; UCP. Objetiva, fundamentalmente, divulgar a produção científica vinculada às áreas de Ciências Humanas, Ciências Agrárias, Ciências da Saúde, Ciências Sociais Aplicadas, Exatas e Tecnológicas.<br>\nO vocábulo trivium deriva do Latim (tri: três e vium: caminhos), era o nome dado, na Idade Média, ao conjunto de três saberes &#8211; constantes nos sete saberes liberais &#8211; ensinadas nas universidades, no início do percurso educativo: gramática, lógica e retórica.</p>\n<p>&nbsp;</p>\n<p><strong>Missão</strong></p>\n<p>&nbsp;</p>\n<p>Incentivar a produção acadêmica e difundir o conhecimento científico por meio da publicação de artigos, tanto do público acadêmico interno, quanto da comunidade científica externa.</p>\n   <h2>EXPEDIENTE</h2>   <p><strong>EDITOR-GERENTE</strong></p>\n<p>Jane Silva Bührer Taques</p>\n<p><strong>CONSELHO EDITORIAL </strong></p>\n<p>Daiane Secco</p>\n<p>Jane Silva Bührer Taques</p>\n<p>Jefferson Silvestre Alberti dos Santos</p>\n<p><strong>EDITORES ASSOCIADOS</strong><br>\nArgos Gumbowski – UnC<br>\nLuis Paulo Gomes Mascarenhas – UNICENTRO<br>\nMary Ângela Teixeira Brandalise – Departamento de Educação – UEPG<br>\nWilson Ramos Filho – UNIGUAÇU<br>\nRegilson Maciel Borges – Departamento de Educação – UFLA</p>\n<p><strong>REVISORES CIENTÍFICOS AD HOC INTERNOS</strong></p>\n<p>Adriana Ângela de Brito</p>\n<p>Ana Flavia Weber Valentim</p>\n<p>Daiane Secco</p>\n<p>Daniela de Carvalho Col</p>\n<p>Elma Kovalim de Souza</p>\n<p>Gabriela Sabaine Pinto</p>\n<p>Grasiele Orsi Bortolan da Silva</p>\n<p>Helena de Oliveira Andrade</p>\n<p>Ivo Ricardo Hey</p>\n<p>James Matheus Ossacz Laconski</p>\n<p>Jane Silva Bührer Taques</p>\n<p>Jefferson Silvestre Alberti dos Santos</p>\n<p>Maicon Javorski</p>\n<p>Maria Luiz Nunes</p>\n<p>Paulo Henrique da Silva Nogueira</p>\n<p>Paulo Ricardo Soethe<br>\nTatiani Maria Garcia de Almeida</p>\n<p>Tayrine Binde Orben</p>\n<p>Thamiris Zanin</p>\n<p><strong>REVISORES CIENTÍFICOS AD HOC EXTERNOS</strong></p>\n<p>Andricia Verlindo &#8211; UNICENTRO<br>\nAdair de Aguiar Neitzel – UNIVALI<br>\nAlcimara Aparecida Föetsch – UNESPAR<br>\nAline Lobato Costa – UEPB<br>\nAndrea Ad Reginatto – UFSM<br>\nAngélica Rocha de Freitas Melhem – UNICENTRO<br>\nArgos Gumbowiski – UnC<br>\nAtilio Augustinho Matozzo – Centro Universitário Campo Real<br>\nBreno Marques da Silva e Silva – UEAP<br>\nCarla Cláudia Pavan Senn – UFPR<br>\nClaudemir de Quadros – UFSM<br>\nCleverson Fernando Salache – UNICENTRO<br>\nCyntia Bailer – FURB<br>\nDaniela Pedrassani – UnC<br>\nEduardo Vieira Alano – EMBRAPA CERRADOS<br>\nEliane Rose Maio – UEM<br>\nElismara Zaias Kailer – UEPG<br>\nFernanda Cristina Caparelli de Oliveira – UFS<br>\nGabriel William Dias Ferreira – UFLA<br>\nGabriela Caramuru Teles – USP<br>\nGeorge Saliba Manske – UNIVALI<br>\nHugo de Mattos Santa Isabel – UNIGUAÇU<br>\nIvanildo dos Anjos Santos – UESC<br>\nJair Ribeiro Junior – UEPG<br>\nJosefino de Freitas Fialho – EMBRAPA CERRADOS<br>\nJuliane Andréa de Mendes Hey Melo – UNICURITIBA<br>\nKelen dos Santos Junges – UNESPAR<br>\nLauro Augusto Ribas Teixeira – Centro Universitário Campo Real<br>\nLuale Leão Ferreira – UNICAMP<br>\nLuiz Carlos Weinschütz – UnC<br>\nLuis Paulo Gomes Mascarenhas – UNICENTRO<br>\nMaria Luiza Milani – UnC<br>\nMary Ângela Teixeira Brandalise – UEPG<br>\nMiriam Aparecida Caldas – Centro Universitário Campo Real<br>\nNei Alberto Salles Filho – UEPG<br>\nNevio de Campos – UEPG<br>\nOrcial Ceolin Bortolotto – UNICENTRO<br>\nRafael da Silva Teixeira Teixeira – UFV<br>\nRegiane Bueno Araújo – Centro Universitário Campo Real<br>\nRegilson Maciel Borges – UFLA<br>\nSandro Luiz Bazzanella – UnC<br>\nSelma Peleias Felerico Garrini – USJT<br>\nSimone Carla Benincá – Centro Universitário Campo Real<br>\nSimone de Fátima Flach – UEPG<br>\nSolange Cardoso – UFOP<br>\nSolange Franci Raimundo Yaegashi – UEM<br>\nRui Mateus Joaquim – UCDB<br>\nVera Lúcia Martiniak – UEPG<br>\nVerônica Gesser – UNIVALI<br>\nVirginia Ostroski Salles – UTFPR</p>\n<p><strong> </strong></p>\n<p><strong>REVISORES CIENTÍFICOS INTERNACIONAIS</strong></p>\n<p>Ana Paula da Silva – School of Veterinary Medicine – University of California Davis<br>\nEdgar Ismael Alarcón Meza – Universidad Autónoma de Baja California (UABC)<br>\nGabriel William Dias Ferreira – University of Georgia<br>\nJhonny Diego Sosa – Escuela Naval Militar de La República Oriental Del Uruguai – Universidad de la Empresa – Montevidéu<br>\nJosé Moncada Jiménez – Universidade da Costa Rica<br>\nRoberto Fernandez Fernández – Faculdad de Derecho – León<br>\nSusana Costa e Silva – Católica Porto Business School – Porto<br>\nSusana Rodriguez Escanciano – Universidad de León – UNILEÓN<br>\nSandra Sharry – National University of La Plato – Buenos Aires<br>\nOscar Fabian Rubiano Espinosa – Libre de Colombia University – Bogotá</p>\n<p><strong>REVISÃO E ORGANIZAÇÃO</strong><br>\nJane Silva Bührer Taques<br>\nJefferson Silvestre Alberti dos Santos</p>\n<p><strong>REVISÃO DOS ABSTRACTS</strong></p>\n<p>Daiane Secco</p>\n<p>&nbsp;</p>\n<p><strong>DIAGRAMAÇÃO</strong></p>\n<p>Daiane Secco<br>\nJefferson Silvestre Alberti dos Santos</p>\n<p><strong> </strong></p>\n<p><strong>BIBLIOTECÁRIO</strong></p>\n<p>Diogo Francisco Antunes – CRB 9 202214</p>\n<p><strong> </strong></p>\n<p><strong>CAPA</strong></p>\n<p>Jefferson Silvestre Alberti dos Santos</p>\n<p>Setor de Marketing da Faculdade UCP</p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Composição",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/composicao/",
+    "path": "/cpa-avaliacao/composicao.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>     <p><strong>Representantes do Corpo Técnico-Administrativo </strong></p>\n<p>Lucieli Oniczko</p>\n<p>Diogo Francisco Antunes</p>\n<p><strong>Representantes do Corpo Docente</strong></p>\n<p>Carlos Kurcrevski</p>\n<p>Jefferson Silvestre Alberti dos Santos &#8211; Presidente da CPA</p>\n<p><strong> Representantes do Corpo Discente</strong></p>\n<p>Angelica Scariot</p>\n<p>Igor Alexandre Javoski</p>\n<p><strong>Representantes da Sociedade Civil</strong></p>\n<p>Cláudio Dubena</p>\n<p>João Sérgio Hey</p>\n<p>&nbsp;</p>\n<p><strong>Período de mandato da CPA: 22/07/2026 a 31/07/2028.</strong></p>\n    ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Edições",
+    "source": "https://ucpparana.edu.br/revistasucp/trivium/edicoes/",
+    "path": "/revistasucp/trivium/edicoes.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"http://revista.ucpparana.edu.br/\">Acessar Revista</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/edicoes/\">Edições</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/normas-para-publicacao/\">Normas para publicação e Edital</a></li>  </ul>      <a href=\"https://ucpparana.edu.br/content/uploads/2017/11/v.1-n.1-2010.pdf\">Trivium v.1, n.1 - 2010</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2017/11/v.2-n.1-2011.pdf\">Trivium v.2, n.1 - 2011</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2017/11/Revista-v.-4-n.-1.pdf\">Trivium v.4, n.1 - 2017</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2018/08/Trivium-v.5-n.1-2018.pdf\">Trivium v.5, n.1 - 2018</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2019/07/Trivium-2018.2.pdf\">Trivium v.5, n.2 - 2018</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2019/07/Trivium-2019.1-1.pdf\">Trivium v.6, n.1 - 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2019/11/Trivim-2019.2-Edi%C3%A7%C3%A3o-Especial-3-2.pdf\">Trivium V.6, N.2, Ed. Especial - 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2019/12/TRIVIUM-V.6-N.3-2019.pdf\">Trivium v.6, n.3 - 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/05/REVISTA-TRIVIUM-Volume-7-N%C3%BAmero-1-2020.pdf\">Trivium v.7, n.1 - 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/10/TRIVIUM-Volume-7-Numero-2-2020.pdf\">Trivium v.7, n.2 - 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/12/TRIVIUM-Volume-7-Numero-3-2020.pdf\">Trivium v.7, n.3 - 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/11/TRIVIUM-Volume-7-Numero-4-2020-Edicao-Especial.pdf\">Trivium V.7, N.4, Ed. Especial - 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/TRIVIUM-Volume-8-Numero-1-Junho-de-2021.pdf\">Trivium v.8, n.1 - 2021</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2022/01/TRIVIUM-Volume-8-Numero-2-Dezembro-de-2021.pdf\">Trivium v.8, n.2 - 2021</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2025/05/Trivium-v.10-n.2-2023_.pdf\">Trivium v.10, n.2, ED. ESPECIAL - 2023</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/08/Trivium-v.11-n.1-JUL.-2026.pdf\">Trivium v.11, n.1 - 2026</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/08/Trivium-v.11-n.2-AGO.-2026.pdf\">Trivium v.11, n.2 - 2026</a>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Informativos CPA",
+    "source": "https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/",
+    "path": "/cpa-avaliacao/informativos-cpa.html",
+    "group": "cpa-avaliacao",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/composicao/\">Composição</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/informativos-cpa/\">Informativos CPA</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/introducao/\">Introdução</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/legislacao/\">Legislação</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/logotipo/\">Logotipo</a></li>  <li><a href=\"https://ucpparana.edu.br/cpa-avaliacao/metodologia/\">Metodologia</a></li>  </ul>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2014.pdf\">Informativo 2014</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2015.pdf\">Informativo 2015</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2016.pdf\">Informativo 2016</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2017-1.pdf\">Informativo 2017</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2018.pdf\">Informativo 2018</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Administra%C3%A7%C3%A3o.pdf\">Informativo 2019 - Administração</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Direito.pdf\">Informativo 2019 - Direito</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Educa%C3%A7%C3%A3o-F%C3%ADsica.pdf\">Informativo 2019 - Educação Física</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Engenharia-Agron%C3%B4mica.pdf\">Informativo 2019 - Engrenharia Agronômica</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Medicina-Veterin%C3%A1ria.pdf\">Informativo 2019 - Medicina Veterinária</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019-Pedagogia.pdf\">Informativo 2019 - Pedagogia</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2020/03/Informativo-2019.pdf\">Informativo 2019</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-ADMINISTRACAO.pdf\">Informativo 2020 - Administração</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-DIREITO.pdf\">Informativo 2020 - Direito</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-EDUCACAO-FISICA.pdf\">Informativo 2020 - Educação Física</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-ENGENHARIA-AGRONOMICA.pdf\">Informativo 2020 - Engenharia Agronômica</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-MEDICINA-VETERINARIA.pdf\">Informativo 2020 - Medicina Veterinária</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020-PEDAGOGIA.pdf\">Informativo 2020 - Pedagogia</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/06/Informativo-2020.pdf\">Informativo 2020</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2021/09/CPA-2021.1.pdf\">Informativo 2021.1</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2022/05/Informativo-20212-Institucional_compressed.pdf\">Informativo 2021.2</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2022/09/CPA-2022-UCP.pdf\">Informativo 2022.1</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2024/10/CPA-2022-2-UCP.pdf\">Informativo 2022.2</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2024/10/CPA-2023-2-UCP.pdf\">Informativo 2023.2</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2024/10/CPA-2024-1-UCP.pdf\">Informativo 2024.1</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/08/CPA-2024-2-FINAL-1.pdf\">Informativo 2024.2</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/08/CPA-2025-FINAL-1-1.pdf\">Informativo 2025</a>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "INCORPORIUM",
+    "source": "https://ucpparana.edu.br/revistasucp/incorporium/",
+    "path": "/revistasucp/incorporium.html",
+    "group": "revistasucp",
+    "index": false,
+    "html": "     <ul>  <li><a href=\"https://ucpparana.edu.br/revistasucp/apresentacao/\">Apresentação</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/incorporium/\">INCORPORIUM</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/magna/\">Magna</a></li>  <li><a href=\"https://ucpparana.edu.br/revistasucp/trivium/\">Trivium</a></li>  </ul>      <a href=\"https://ucpparana.edu.br/content/uploads/2025/10/REVISTA-INCORPORIUM-V.1-n.1-2025.pdf\">REVISTA INCORPORIUM - V.1, n.1 - 2025</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2025/12/REVISTA-INCORPORIUM-V.1.-n.2-2025-DIAGRAMACAO_compressed.pdf\">REVISTA INCORPORIUM - V.1, n.2 - 2025</a>      <a href=\"https://ucpparana.edu.br/content/uploads/2026/10/Revista-Incorporium-V2.N1.pdf\">REVISTA INCORPORIUM - V.2, n.1 - 2026</a>     ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "UCP Fest",
+    "source": "https://ucpparana.edu.br/eventos/ucp-fest/",
+    "path": "/eventos/ucp-fest.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>01 ago</p> <p>Durante as festividades de 17 anos da Faculdade UCP, estaremos realizando o UCPFest &#8211; Exposição de carros antigos e clássicos &#x1f697;&#x1f699;&#x1f698;</p>\n<p>Presença de Food Trucks + Praça de alimentação. Entradas francas &#x1f609;&#x1f60d;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/ENCONTRO-DE-CARROS-ANTIGOS.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/ENCONTRO-DE-CARROS-ANTIGOS.png\" alt=\"\" loading=\"lazy\"></a></p>\n<p>&nbsp;</p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Mostra Científica de Direitos Humanos",
+    "source": "https://ucpparana.edu.br/eventos/mostra-cientifica-de-direitos-humanos/",
+    "path": "/eventos/mostra-cientifica-de-direitos-humanos.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>01 ago</p> <p><a href=\"http://www.integrafaculdades.com.br/pit/integra_ativcomp/index.php\">Clique aqui</a> para realizar sua inscrição!</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/07/Painel-Mostra-Cient%C3%ADfica-de-Direitos-Humanos-2019-1.ppt\">Clique aqui</a> para fazer o download do Modelo de Painel da Mostra Científica de Direitos Humanos.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/07/Mostra-Cient%C3%ADfica-de-Direitos-Humanos.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/07/Mostra-Cient%C3%ADfica-de-Direitos-Humanos-e1564102275184.png\" alt=\"\" loading=\"lazy\"></a></p>\n<p>&nbsp;</p>\n<p>———————————————————————————————————————-</p>\n<p>&nbsp;</p>\n<p>Para maiores informações procure o seu coordenador de curso.</p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Mostra de Talentos UCP",
+    "source": "https://ucpparana.edu.br/eventos/mostra-de-talentos-ucp/",
+    "path": "/eventos/mostra-de-talentos-ucp.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>01 ago</p> <p>As inscrições para a Mostra de Talentos da UCP estão abertas!</p>\n<p>O Evento é aberto para acadêmicos e colaboradores da UCP e os participantes têm até o dia 02 de agosto para realizar a inscrição na Central do Acadêmico.</p>\n<p>Para maiores informações procure as coordenações de curso da Faculdade UCP ou confira o Edital abaixo <img src=\"https://s.w.org/images/core/emoji/12.0.0-1/svg/1f609.svg\" alt=\"😉\" loading=\"lazy\"></p>\n<p>&nbsp;</p>\n<p><a href=\"http://ucpparana.edu.br/content/uploads/2019/07/Edital-58.2019-Mostra-de-Talentos-UCP.pdf\">Clique aqui e confira o edital!</a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/07/Ficha-de-Inscri%C3%A7%C3%A3o-Semana-Cultural-1.doc\">Ficha de Inscrição – Mostra de Talentos UCP</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/07/mostra-cultural-faculdade-ucp-2-1-e1563994874657.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/07/mostra-cultural-faculdade-ucp-2-1-e1563994874657.png\" alt=\"\" loading=\"lazy\"></a></p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Seminário Jurídico",
+    "source": "https://ucpparana.edu.br/eventos/seminario-juridico/",
+    "path": "/eventos/seminario-juridico.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>06 jul</p> <p><a href=\"http://www.integrafaculdades.com.br/pit/integra_ativcomp/index.php\">Clique aqui</a> para realizar sua inscrição!</p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/Semana-Jur%C3%ADdica-Direito-2019-site.jpg\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/Semana-Jur%C3%ADdica-Direito-2019-site.jpg\" alt=\"\" loading=\"lazy\"></a></p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/Semana-Jur%C3%ADdica-Direito-02.2019-site.jpg\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/Semana-Jur%C3%ADdica-Direito-02.2019-site.jpg\" alt=\"\" loading=\"lazy\"></a></p>\n\n\n<h3>_____________</h3>\n<p>&nbsp;</p>\n<p>Investimento*:</p>\n<p>*R$ 30,00 acadêmicos de graduação da Faculdade UCP;<br>\n*R$ 35,00 comunidade em geral;</p>\n<p>**Vagas limitadas – Procure a Coordenação de Direito para mais informações.</p>\n<p>Inscrições até o dia 12/08<br>\nPagamento no Financeiro da Faculdade UCP até o dia 12/08</p>\n<p>&nbsp;</p>\n<p><strong><em><a href=\"http://www.integrafaculdades.com.br/pit/integra_ativcomp/index.php\">Clique aqui</a> para realizar sua inscrição ou procure </em></strong><em><strong>o Financeiro da Faculdade UCP.</strong></em></p>\n\n\n\n\n\n\n\n\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "I Seminário de Educação Física e III Noite do Egresso de Educação Física",
+    "source": "https://ucpparana.edu.br/eventos/i-seminario-de-educacao-fisica-e-iii-noite-do-egresso-de-educacao-fisica/",
+    "path": "/eventos/i-seminario-de-educacao-fisica-e-iii-noite-do-egresso-de-educacao-fisica.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>27 ago</p> \n\n<p><a href=\"http://www.integrafaculdades.com.br/pit/integra_ativcomp/index.php\">Clique aqui</a> para realizar sua inscrição!</p>\n\n\n\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/Semin%C3%A1rio-de-Educa%C3%A7%C3%A3o-F%C3%ADsica-e-3%C2%BA-noite-do-egresso-de-educa%C3%A7%C3%A3o-f%C3%ADsica-2019-1.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/Semin%C3%A1rio-de-Educa%C3%A7%C3%A3o-F%C3%ADsica-e-3%C2%BA-noite-do-egresso-de-educa%C3%A7%C3%A3o-f%C3%ADsica-2019-1-e1566952157345.png\" alt=\"\" loading=\"lazy\"></a></p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/Semin%C3%A1rio-de-Educa%C3%A7%C3%A3o-F%C3%ADsica-e-3%C2%BA-noite-do-egresso-de-educa%C3%A7%C3%A3o-f%C3%ADsica-2019-programa%C3%A7%C3%A3o-1-e1566952219729.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/Semin%C3%A1rio-de-Educa%C3%A7%C3%A3o-F%C3%ADsica-e-3%C2%BA-noite-do-egresso-de-educa%C3%A7%C3%A3o-f%C3%ADsica-2019-programa%C3%A7%C3%A3o-1-e1566952219729.png\" alt=\"\" loading=\"lazy\"></a></p>\n\n\n<h3>_____________</h3>\n<p>&nbsp;</p>\n<p><strong>Investimento*:</strong></p>\n<p>*R$ 20,00 acadêmicos de graduação da Faculdade UCP;<br>\n*R$ 25,00 comunidade em geral;</p>\n<p>**Vagas limitadas – Procure a Coordenação de Educação Física para mais informações.</p>\n<p>&nbsp;</p>\n<p>Inscrições até o dia 02/09<br>\nPagamento no Financeiro da Faculdade UCP até o dia 02/09</p>\n<p>&nbsp;</p>\n<p><strong>Horas complementares:</strong></p>\n<p>Acadêmico que participar dos dois dias do evento, obtém certificação de 20h complementares.</p>\n<p>&nbsp;</p>\n<p><strong><em><a href=\"http://www.integrafaculdades.com.br/pit/integra_ativcomp/index.php\">Clique aqui</a> para realizar sua inscrição ou procure </em></strong><em><strong>o Financeiro da Faculdade UCP.</strong></em></p>\n\n\n\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "13º Encontro de Iniciação Científica e 11ª Mostra de Pós-Graduação do Centro do Paraná",
+    "source": "https://ucpparana.edu.br/eventos/13o-encontro-de-iniciacao-cientifica-e-11a-mostra-de-pos-graduacao-do-centro-do-parana/",
+    "path": "/eventos/13o-encontro-de-iniciacao-cientifica-e-11a-mostra-de-pos-graduacao-do-centro-do-parana.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>27 ago</p> <p>Estão abertas as inscrições para o 13º Encontro de Iniciação Científica e 11ª Mostra de Pós-Graduação do Centro do Paraná &#x1f60d;&#x1f44f;&#x1f44f;</p>\n<p>Para mais informações acesse https://ucpparana.edu.br/iniciacao-cientifica/ &#x1f609;</p>\n<p>&nbsp;</p>\n<p><a href=\"https://ucpparana.edu.br/content/uploads/2019/08/INICIA%C3%87%C3%83O-CIENTIFICA-2019-ok-5.png\"><img src=\"https://ucpparana.edu.br/content/uploads/2019/08/INICIA%C3%87%C3%83O-CIENTIFICA-2019-ok-5.png\" alt=\"\" loading=\"lazy\"></a></p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Aula Inaugural do curso de Educação Física da UCP",
+    "source": "https://ucpparana.edu.br/eventos/aula-inaugural-do-curso-de-educacao-fisica-da-ucp/",
+    "path": "/eventos/aula-inaugural-do-curso-de-educacao-fisica-da-ucp.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>28 fev</p> <p>No dia 04 de março, acontecerá a Aula Inaugural do curso de Educação Física da UCP &#x1f609;&#x1f60d;</p>\n<p>#FaculdadeUCP #EnsinoporIdeal #UCP2020 #edfUCP</p>\n<p>&nbsp;</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2020/02/Aula-Inaugural-Edu-F%C3%ADsica-2020-instagram.png\" alt=\"\" loading=\"lazy\"></p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Aula Inaugural do curso de Direito da UCP",
+    "source": "https://ucpparana.edu.br/eventos/aula-inaugural-do-curso-de-direito-da-ucp/",
+    "path": "/eventos/aula-inaugural-do-curso-de-direito-da-ucp.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>28 fev</p> <p>No dia 03 de março, acontecerá a Aula Inaugural do curso de Direito da UCP &#x1f609;&#x1f60d;</p>\n<p>#FaculdadeUCP #EnsinoporIdeal #UCP2020 #dtoUCP</p>\n<p>&nbsp;</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2020/02/Aula-Inaugural-Direito-2020.png\" alt=\"\" loading=\"lazy\"></p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  },
+  {
+    "title": "Aula Inaugural de Engenharia Agronômica da UCP",
+    "source": "https://ucpparana.edu.br/eventos/aula-inaugural-de-engenharia-agronomica-da-ucp/",
+    "path": "/eventos/aula-inaugural-de-engenharia-agronomica-da-ucp.html",
+    "group": "eventos",
+    "index": false,
+    "html": "<p>28 fev</p> <p>Na segunda-feira, 02, acontecerá a Aula Inaugural de Engenharia Agronômica da UCP &#x1f609;&#x1f60d;</p>\n<p>#FaculdadeUCP #EnsinoporIdeal #UCP2020 #AgronomiaUCP</p>\n<p>&nbsp;</p>\n<p><img src=\"https://ucpparana.edu.br/content/uploads/2020/02/Aula-Inaugural-Eng-Agronomica-2020.png\" alt=\"\" loading=\"lazy\"></p>\n   <a href=\"https://ucpparana.edu.br/eventos/\"><i></i> Voltar</a> ",
+    "hasForm": false,
+    "importedAt": "2026-10-16"
+  }
+]
