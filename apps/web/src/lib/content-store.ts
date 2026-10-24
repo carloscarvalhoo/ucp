@@ -162,7 +162,7 @@ async function decorate(
   }
   const conciseMenus: Record<string, string[][]> = {
     Instituição: [
-      ['Conheça a UCP', '/institucional'],
+      ['Visão geral', '/institucional'],
       ['Direção', '/institucional/direcao'],
       ['Corpo docente', '/institucional/corpo-docente'],
       ['Infraestrutura', '/institucional/instalacoes-academicas'],
@@ -172,6 +172,7 @@ async function decorate(
       ['Contato', '/contato'],
     ],
     Utilidades: [
+      ['Visão geral', '/utilidades'],
       ['Horários de aulas', '/utilidades/horarios-2026-2'],
       ['Ensalamento', '/utilidades/ensalamento-2026-2'],
       ['Calendário acadêmico', '/utilidades/calendario-academico'],
@@ -200,6 +201,10 @@ async function decorate(
     const menu = nav.querySelector('.dropdown');
     if (!menu) continue;
     menu.replaceChildren();
+    const overview = document.createElement('a');
+    overview.href = '/cursos';
+    overview.textContent = 'Visão geral';
+    menu.append(overview);
     for (const course of courses) {
       if (!course) continue;
       const a = document.createElement('a');
@@ -243,6 +248,54 @@ async function decorate(
     if (smartTitle) {
       menu.append(smartTitle, smartGrid);
     }
+  }
+  const publicationSections: Record<string, { label: string; overview: string }> = {
+    Notícias: { label: 'Notícias', overview: '/noticias' },
+    Blog: { label: 'Blog', overview: '/blog' },
+    Eventos: { label: 'Eventos', overview: '/eventos' },
+  };
+  for (const anchor of document.querySelectorAll('header a')) {
+    const section = publicationSections[anchor.textContent.trim()];
+    if (!section || anchor.closest('.nav-group') || !anchor.parentElement?.matches('nav')) continue;
+    const latest = await prisma.content_entries.findMany({
+      where: {
+        kind: 'publication',
+        status: 'published',
+        published_data: { path: '$.route', string_starts_with: section.overview + '/' },
+      },
+      orderBy: { published_at: 'desc' },
+      take: 5,
+    });
+    if (!latest.length) continue;
+    const group = document.createElement('div');
+    group.className = 'nav-group mega-menu';
+    const trigger = document.createElement('a');
+    trigger.className = 'nav-trigger';
+    trigger.textContent = section.label;
+    trigger.href = section.overview;
+    const toggle = document.createElement('button');
+    toggle.className = 'nav-toggle';
+    toggle.type = 'button';
+    toggle.setAttribute('aria-label', 'Abrir opções de ' + section.label);
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.innerHTML = '<span aria-hidden="true">⌄</span>';
+    const dropdown = document.createElement('div');
+    dropdown.className = 'dropdown';
+    dropdown.style.setProperty('--menu-columns', '1');
+    dropdown.style.setProperty('--menu-rows', String(latest.length + 1));
+    const overview = document.createElement('a');
+    overview.href = section.overview;
+    overview.textContent = 'Visão geral';
+    dropdown.append(overview);
+    for (const entry of latest) {
+      const data = asData(entry.published_data);
+      const a = document.createElement('a');
+      a.href = data.route;
+      a.textContent = entry.title;
+      dropdown.append(a);
+    }
+    group.append(trigger, toggle, dropdown);
+    anchor.replaceWith(group);
   }
 }
 export async function page(
