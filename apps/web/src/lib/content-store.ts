@@ -201,10 +201,6 @@ async function decorate(
     const menu = nav.querySelector('.dropdown');
     if (!menu) continue;
     menu.replaceChildren();
-    const overview = document.createElement('a');
-    overview.href = '/cursos';
-    overview.textContent = 'Visão geral';
-    menu.append(overview);
     for (const course of courses) {
       if (!course) continue;
       const a = document.createElement('a');
@@ -218,7 +214,7 @@ async function decorate(
       const title = document.createElement('a');
       title.className = 'smart-menu-title';
       title.href = '/cursos-smart';
-      title.textContent = 'Smart · Campo Real — Polo UCP';
+      title.textContent = 'Smart';
       menu.append(title);
       for (const course of smart) {
         if (!course) continue;
@@ -243,7 +239,11 @@ async function decorate(
       }
       (inSmart ? smartGrid : presencial).append(el);
     }
-    menu.append(presencial);
+    const presencialTitle = document.createElement('a');
+    presencialTitle.className = 'smart-menu-title';
+    presencialTitle.href = '/cursos';
+    presencialTitle.textContent = 'Cursos tradicionais';
+    menu.append(presencialTitle, presencial);
     const smartTitle = links.find((el) => el.classList.contains('smart-menu-title'));
     if (smartTitle) {
       menu.append(smartTitle, smartGrid);
