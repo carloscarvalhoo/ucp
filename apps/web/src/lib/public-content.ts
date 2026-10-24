@@ -6,18 +6,15 @@ import { notFound } from 'next/navigation';
 import { projectRoot, content, parseHTML, publicURL, storageRoute } from './services';
 export const getPublicPage = cache(async (pathname: string) => {
   const route = storageRoute(pathname);
-  const possibleHidden = await prisma.content_entries.findMany({
+  const hiddenCount = await prisma.content_entries.count({
     where: {
       status: { not: 'published' },
       kind: { in: ['section', 'course', 'publication', 'page'] },
+      draft_data: { path: '$.route', equals: route },
+      AND: { draft_data: { path: '$.selector', equals: 'main' } },
     },
-    select: { draft_data: true },
   });
-  const hidden = possibleHidden.filter((entry) => {
-    const data = entry.draft_data as { selector?: string; route?: string };
-    return data.selector === 'main' && data.route === route;
-  });
-  if (hidden.length) notFound();
+  if (hiddenCount) notFound();
   const root = path.join(projectRoot, 'dist');
   const target = path.resolve(root, '.' + route);
   if (!target.startsWith(root + path.sep)) notFound();
