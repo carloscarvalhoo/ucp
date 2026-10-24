@@ -126,17 +126,36 @@ async function uploadFile(input: Record<string, unknown>) {
     ext = 'pdf';
     mime = 'application/pdf';
   } else throw Error('Use imagem JPG, PNG, WebP ou documento PDF.');
+  let finalBuffer = buffer;
+  if (ext === 'jpg' || ext === 'png' || ext === 'webp') {
+    try {
+      const sharp = (await import('sharp')).default;
+      const image = sharp(buffer);
+      const meta = await image.metadata();
+      let pipeline = image;
+      if (meta.width && meta.width > 1920) pipeline = pipeline.resize({ width: 1920 });
+      const compressed = await (ext === 'jpg'
+        ? pipeline.jpeg({ quality: 80, mozjpeg: true })
+        : ext === 'png'
+          ? pipeline.png({ quality: 80, compressionLevel: 9 })
+          : pipeline.webp({ quality: 80 })
+      ).toBuffer();
+      if (compressed.length < buffer.length) finalBuffer = compressed;
+    } catch {
+      // mantém o arquivo original se a compressão falhar
+    }
+  }
   const name = crypto.randomUUID() + '.' + ext,
     dir = path.join(projectRoot, 'storage/uploads');
   await fs.mkdir(dir, { recursive: true });
-  await fs.writeFile(path.join(dir, name), buffer);
+  await fs.writeFile(path.join(dir, name), finalBuffer);
   try {
     await prisma.media_assets.create({
       data: {
         storage_key: 'uploads/' + name,
         original_name: String(input.name || name).slice(0, 255),
         mime_type: mime,
-        byte_size: BigInt(buffer.length),
+        byte_size: BigInt(finalBuffer.length),
       },
     });
   } catch (error) {
