@@ -4,7 +4,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { notFound } from 'next/navigation';
 import { projectRoot, content, parseHTML, publicURL, storageRoute } from './services';
-export const getPublicPage = cache(async (pathname: string) => {
+const PAGE_CACHE_TTL = 60000;
+const pageCache = new Map<string, { expires: number; value: unknown }>();
+async function buildPublicPage(pathname: string) {
   const route = storageRoute(pathname);
   const hiddenCount = await prisma.content_entries.count({
     where: {
@@ -75,4 +77,13 @@ export const getPublicPage = cache(async (pathname: string) => {
     styles,
     scripts,
   };
+}
+export const getPublicPage = cache(async (pathname: string) => {
+  const now = Date.now();
+  const cached = pageCache.get(pathname);
+  if (cached && cached.expires > now) return cached.value as Awaited<ReturnType<typeof buildPublicPage>>;
+  const value = await buildPublicPage(pathname);
+  if (pageCache.size > 500) for (const [key, entry] of pageCache) if (entry.expires < now) pageCache.delete(key);
+  pageCache.set(pathname, { expires: now + PAGE_CACHE_TTL, value });
+  return value;
 });

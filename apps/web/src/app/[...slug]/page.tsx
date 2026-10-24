@@ -1,7 +1,7 @@
 import { permanentRedirect } from 'next/navigation';
 import { PublicPage } from '@/components/public-page';
 import { getPublicPage } from '@/lib/public-content';
-export const dynamic = 'force-dynamic';
+export const revalidate = 60;
 type Props = {
   params: Promise<{ slug: string[] }>;
   searchParams: Promise<Record<string, string | string[] | undefined>>;
