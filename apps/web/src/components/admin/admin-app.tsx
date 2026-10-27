@@ -95,7 +95,7 @@ function AccountIcon({ type }: { type: 'settings' | 'trash' }) {
       ) : (
         <>
           <circle cx="12" cy="12" r="3" />
-          <path d="m9 3-1 3-3 1-2 3 2 2-1 3 3 2 1 3h4l1-3 3-1 2-3-2-2 1-3-3-2-1-3Z" />
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
         </>
       )}
     </svg>
@@ -397,8 +397,13 @@ export function AdminApp() {
   const isTrash = area === 'trash';
   const creatingPublication = modal === 'create' && area === 'publications';
   const title = isTrash ? 'Lixeira' : area === 'settings' ? 'Configurações da conta' : areas[area];
+  const searching = Boolean(search.trim());
   const base = entries.filter(
-    (e) => !e.purged && (isTrash ? Boolean(e.trashedAt) : !e.trashedAt && areaFor(e) === area),
+    (e) =>
+      !e.purged &&
+      (isTrash
+        ? Boolean(e.trashedAt)
+        : !e.trashedAt && (searching ? true : areaFor(e) === area)),
   );
   const matches = base.filter(
     (e) =>
@@ -419,7 +424,7 @@ export function AdminApp() {
     const parts = publicPath(entry.route).split('/').filter(Boolean);
     if (parts.length === 1) return 'Página principal';
     const parent = entries.find((e) => publicPath(e.route) === '/' + parts.slice(0, -1).join('/'));
-    return parent?.title || areas[area] || 'Página';
+    return parent?.title || areas[areaFor(entry)] || areas[area] || 'Página';
   }
   const kindNames: Record<string, string> = {
     section: 'Página ou seção',
