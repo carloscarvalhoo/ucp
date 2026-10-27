@@ -171,25 +171,17 @@ export async function adminHandler(request: Request) {
     if (!['GET', 'POST', 'PUT', 'DELETE'].includes(request.method))
       return json({ error: 'Método não permitido.' }, 405);
     const publicOrigin = new URL(url.origin);
-    if (request.headers.get('host')) publicOrigin.host = request.headers.get('host')!;
+    const hostHeader = request.headers.get('host');
+    if (hostHeader) {
+      const [hostname, port] = hostHeader.split(':');
+      publicOrigin.hostname = hostname;
+      publicOrigin.port = port || '';
+    }
     const forwardedProto = request.headers.get('x-forwarded-proto')?.split(',')[0]?.trim();
     if (forwardedProto === 'http' || forwardedProto === 'https')
       publicOrigin.protocol = forwardedProto + ':';
     if (request.method !== 'GET' && request.headers.get('origin') !== publicOrigin.origin)
-      return json(
-        {
-          error: 'Origem não autorizada.',
-          debug: {
-            origin: request.headers.get('origin'),
-            computed: publicOrigin.origin,
-            host: request.headers.get('host'),
-            xfProto: request.headers.get('x-forwarded-proto'),
-            xfHost: request.headers.get('x-forwarded-host'),
-            urlOrigin: url.origin,
-          },
-        },
-        403,
-      );
+      return json({ error: 'Origem não autorizada.' }, 403);
     if (endpoint === 'status' && request.method === 'GET')
       return json({
         setup: (await prisma.admin_users.count()) === 0,
