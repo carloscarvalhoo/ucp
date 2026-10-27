@@ -77,7 +77,6 @@ export function Select({
         className="admin-input flex items-center justify-between gap-3"
       >
         <span>{options.find((o) => o.value === value)?.label || 'Selecione'}</span>
-        <span aria-hidden>⌄</span>
       </button>
       {open && (
         <div

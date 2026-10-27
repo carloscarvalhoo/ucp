@@ -473,7 +473,6 @@ export function AdminApp() {
               <span className="admin-account-button">
                 <span>{user.name}</span>
                 <span className="admin-avatar">{user.name.trim().charAt(0).toUpperCase()}</span>
-                <span aria-hidden>⌄</span>
               </span>
             }
           >

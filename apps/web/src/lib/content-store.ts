@@ -156,7 +156,6 @@ async function decorate(
     toggle.type = 'button';
     toggle.setAttribute('aria-label', 'Abrir opções de ' + name);
     toggle.setAttribute('aria-expanded', 'false');
-    toggle.innerHTML = '<span aria-hidden="true">⌄</span>';
     trigger.replaceWith(a);
     a.after(toggle);
   }
@@ -278,7 +277,6 @@ async function decorate(
     toggle.type = 'button';
     toggle.setAttribute('aria-label', 'Abrir opções de ' + section.label);
     toggle.setAttribute('aria-expanded', 'false');
-    toggle.innerHTML = '<span aria-hidden="true">⌄</span>';
     const dropdown = document.createElement('div');
     dropdown.className = 'dropdown';
     dropdown.style.setProperty('--menu-columns', '1');
