@@ -176,7 +176,20 @@ export async function adminHandler(request: Request) {
     if (forwardedProto === 'http' || forwardedProto === 'https')
       publicOrigin.protocol = forwardedProto + ':';
     if (request.method !== 'GET' && request.headers.get('origin') !== publicOrigin.origin)
-      return json({ error: 'Origem não autorizada.' }, 403);
+      return json(
+        {
+          error: 'Origem não autorizada.',
+          debug: {
+            origin: request.headers.get('origin'),
+            computed: publicOrigin.origin,
+            host: request.headers.get('host'),
+            xfProto: request.headers.get('x-forwarded-proto'),
+            xfHost: request.headers.get('x-forwarded-host'),
+            urlOrigin: url.origin,
+          },
+        },
+        403,
+      );
     if (endpoint === 'status' && request.method === 'GET')
       return json({
         setup: (await prisma.admin_users.count()) === 0,
